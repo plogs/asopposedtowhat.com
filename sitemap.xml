@@ -3,15 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://asopposedtowhat.com/</loc>
+    <loc>https://asopposedtowhat.com/about/</loc>
+    <lastmod>2020-01-01T19:14:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://asopposedtowhat.com/categories/</loc>
+    <loc>https://asopposedtowhat.com/</loc>
   </url>
   
   <url>
-    <loc>http://asopposedtowhat.com/tags/</loc>
+    <loc>https://asopposedtowhat.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://asopposedtowhat.com/tags/</loc>
   </url>
   
 </urlset>
