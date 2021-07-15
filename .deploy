@@ -1,0 +1,43 @@
+:
+
+# https://gohugo.io/getting-started/usage/
+
+# After running hugo server for local web development, you need to do a
+# final hugo run without the server part of the command to rebuild your
+# site. You may then deploy your site by copying the public/ directory
+# to your production web server.
+
+
+# cleanup
+test -d public && rm -rf public
+
+hugo || {
+    echo "Error: hugo"
+    exit 1
+}
+
+cd public || {
+    echo "Error: could not cd to: public"
+    exit 1
+}
+
+tmptar=/tmp/stevei.hugo.tar
+tar cvf $tmptar *
+
+targetDir=/run/media/stevei/plnkx/2019-github/asopposedtowhat.com
+
+cd $targetDir || {
+    echo "Error: could not cd to: $targetDir"
+    exit 1
+}
+
+tar xvf $tmptar
+cp $tmptar /tmp/stevei.tar
+
+rm -f $tmptar
+rm -rf public/
+
+echo Done
+exit 0
+
+

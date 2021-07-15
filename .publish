@@ -1,0 +1,16 @@
+:
+
+targetDir=/run/media/stevei/plnkx/2019-github/asopposedtowhat.com
+
+cd $targetDir || {
+    echo "Error: could not cd to: $targetDir"
+    exit 1
+}
+
+git add -A .
+git commit -m " - incremental checkin."
+git push
+
+
+echo Done
+exit 0
