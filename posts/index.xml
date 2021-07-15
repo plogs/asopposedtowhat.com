@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AsOpposedToWhat.com</title>
-    <link>https://asopposedtowhat.com/</link>
-    <description>Recent content on AsOpposedToWhat.com</description>
+    <title>Posts on AsOpposedToWhat.com</title>
+    <link>https://asopposedtowhat.com/posts/</link>
+    <description>Recent content in Posts on AsOpposedToWhat.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jul 2021 15:53:34 -0700</lastBuildDate><atom:link href="https://asopposedtowhat.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jul 2021 15:53:34 -0700</lastBuildDate><atom:link href="https://asopposedtowhat.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Half-Truths</title>
       <link>https://asopposedtowhat.com/posts/half-truths/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://asopposedtowhat.com/posts/half-truths/</guid>
       <description>When You Assume  When you assume you make an ass out of you and me. [ASS U ME] — and yet, before it even makes sense to utter that statment, I assume you understand English; I assume that you can hear me, that you&amp;rsquo;re listening, that you&amp;rsquo;re not an asshat.  Too many cooks  Two many cooks spoil the broth — except, when two heads are better than one.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://asopposedtowhat.com/about/</link>
-      <pubDate>Wed, 01 Jan 2020 19:14:39 -0700</pubDate>
-      
-      <guid>https://asopposedtowhat.com/about/</guid>
-      <description>AsOpposedToWhat </description>
     </item>
     
   </channel>
