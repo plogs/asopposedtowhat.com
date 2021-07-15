@@ -16,3 +16,9 @@ theme = "tale"
     title = "Posts"
     url = "/posts/"
     weight = 0
+  [[menu.main]]
+    identifier = "religion"
+    name = "GetReligion"
+    title = "GetReligion"
+    url = "https://church.of.the.asopposedtowhat.com"
+    weight = 0

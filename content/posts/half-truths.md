@@ -1,7 +1,7 @@
 ---
 title: "Half-Truths"
 date: 2021-07-14T15:53:34-07:00
-draft: true
+draft: false
 ---
 
 # When You Assume

@@ -7,6 +7,11 @@
 # site. You may then deploy your site by copying the public/ directory
 # to your production web server.
 
+thisdir=/run/media/stevei/plnkx/2019-github/asopposedtowhat.com.src
+cd $thisdir || {
+    echo "Error: could not cd to: $thisdir"
+    exit 1
+}
 
 # cleanup
 test -d public && rm -rf public
@@ -35,6 +40,8 @@ tar xvf $tmptar
 cp $tmptar /tmp/stevei.tar
 
 rm -f $tmptar
+
+cd $thisdir
 rm -rf public/
 
 echo Done
