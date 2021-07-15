@@ -17,6 +17,11 @@ draft: false
 * Two many cooks spoil the broth &mdash; except, when two heads are better
   than one.
 
+# Two heads are better
+
+* Two heads are better than one &mdash; unless you're a cook making broth.
+
+
 # Deep down inside
 
 * Deep down inside we're all the same &mdash; Are you sure? said the man with

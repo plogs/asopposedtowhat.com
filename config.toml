@@ -1,6 +1,8 @@
 baseURL = "https://asopposedtowhat.com"
 languageCode = "en-us"
 title = "AsOpposedToWhat.com"
+googleAnalytics = "UA-88355709-2"
+
 theme = "tale"
 
 [menu]
