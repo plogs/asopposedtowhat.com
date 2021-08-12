@@ -9,7 +9,7 @@ draft: false
 
 ![squirrel on tree](/images/squirrel-on-tree.jpg)
 
-## A ferocious metaphysical dispute[^1]
+## aka A ferocious metaphysical dispute[^1]
 
 Some time ago, being with a camping party in the mountains, I
 returned from a solitary ramble to find everyone engaged in a
