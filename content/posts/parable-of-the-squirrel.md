@@ -90,10 +90,11 @@ mean when you say, "_Goes around_."
 
 ----
 
-## _PRAGMATISM: A New Name for Some Old Ways of Thinking_[^2], 1907
+## _PRAGMATISM: A New Name for Some Old Ways of Thinking_[^2]
 ### By William James
+### 1907
 
-#### Chapter two
+#### Chapter Two
 
 Some years ago, being with a camping party in the mountains, I
 returned from a solitary ramble to find everyone engaged in a
