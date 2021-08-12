@@ -77,8 +77,8 @@ man never gets _behind_ the squirrel."
 both right and both wrong depending on what you mean practically by
 the phrase 'goes around'."
 
-Some still wanted to argue, but for the most part everyone agreed:
-the answer depends upon what you mean when you say, "Goes _around_."
+For the most part everyone agreed: the answer depends upon what you
+mean when you say, "_Goes around_."
 
 
 ----
