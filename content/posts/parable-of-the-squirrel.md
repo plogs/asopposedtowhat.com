@@ -51,7 +51,7 @@ _No_, he doesn't.
 
 They appealed to me to make it a majority, one way or the other.
 Mindful of the scholastic adage that when you meet a contradiction,
-it's often helpful to must make a distinction, I did.
+it's often helpful to make a distinction, I did.
 
 ## What do you mean?
 
