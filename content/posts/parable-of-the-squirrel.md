@@ -84,75 +84,12 @@ mean when you say, "_Goes around_."
 
 ## The End
 
+### postscript
 
-----
-
-
-
-### [original story version below]
-
-
-----
-
-## _PRAGMATISM: A New Name for Some Old Ways of Thinking_[^2]
-### By William James
-### 1907
-
-#### Chapter Two
-
-Some years ago, being with a camping party in the mountains, I
-returned from a solitary ramble to find everyone engaged in a
-ferocious metaphysical dispute. The corpus of the dispute was a
-squirrel -- a live squirrel supposed to be clinging to one side of a
-tree-trunk; while over against the tree's opposite side a human being
-was imagined to stand.
-
-This human witness tries to get sight of the squirrel by moving
-rapidly round the tree, but no matter how fast he goes, the squirrel
-moves as fast in the opposite direction, and always keeps the tree
-between himself and the man, so that never a glimpse of him is
-caught.
-
-The resultant metaphysical problem now is this: DOES THE MAN GO ROUND
-THE SQUIRREL OR NOT? He goes round the tree, sure enough, and the
-squirrel is on the tree; but does he go round the squirrel?
-
-In the unlimited leisure of the wilderness, discussion had been worn
-threadbare. Everyone had taken sides, and was obstinate; and the
-numbers on both sides were even. Each side, when I appeared,
-therefore appealed to me to make it a majority.
-
-Mindful of the scholastic adage that whenever you meet a
-contradiction you must make a distinction, I immediately sought and
-found one, as follows: "Which party is right," I said, "depends on
-what you PRACTICALLY MEAN by 'going round' the squirrel.
-
-If you mean passing from the north of him to the east, then to the
-south, then to the west, and then to the north of him again,
-obviously the man does go round him, for he occupies these successive
-positions.
-
-But if on the contrary you mean being first in front of him, then on
-the right of him, then behind him, then on his left, and finally in
-front again, it is quite as obvious that the man fails to go round
-him, for by the compensating movements the squirrel makes, he keeps
-his belly turned towards the man all the time, and his back turned
-away.
-
-Make the distinction, and there is no occasion for any farther
-dispute. You are both right and both wrong according as you conceive
-the verb 'to go round' in one practical fashion or the other."
-
-Altho one or two of the hotter disputants called my speech a
-shuffling evasion, saying they wanted no quibbling or scholastic
-hair-splitting, but meant just plain honest English 'round,' the
-majority seemed to think that the distinction had assuaged the
-dispute.
-
+I embellished the story[^1] slightly. Go [here](https://www.gutenberg.org/files/5116/5116-h/5116-h.htm#link2H_4_0004) to read the original.)
 
 [^1]: From chapter 2 of: _Pragmatism: A New Name for Some Old Ways of
 Thinking_, by William James. Originally published in 1907
 
-[^2]: https://www.gutenberg.org/files/5116/5116-h/5116-h.htm#link2H_4_0004
 
 
