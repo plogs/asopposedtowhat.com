@@ -9,7 +9,7 @@ draft: false
 
 ![squirrel on tree](/images/squirrel-on-tree.jpg)
 
-## A ferocious metaphysical dispute
+## A ferocious metaphysical dispute[^1]
 
 Some time ago, being with a camping party in the mountains, I
 returned from a solitary ramble to find everyone engaged in a
@@ -77,16 +77,15 @@ man never gets _behind_ the squirrel."
 both right and both wrong depending on what you mean when you say
 'goes around'."
 
-## The End
 
-### postscript
 
-I embellished the story[^1] slightly. Go
-[here](https://www.gutenberg.org/files/5116/5116-h/5116-h.htm#link2H_4_0004)
-to read the original.
+[^1]: From chapter 2 of:
+  _Pragmatism: A New Name for Some Old Ways of Thinking_, by William
+  James. Originally published in 1907. I embellished the story
+  slightly. Go
+  [here](https://www.gutenberg.org/files/5116/5116-h/5116-h.htm#link2H_4_0004)
+  to read the original.
 
-[^1]: From chapter 2 of: _Pragmatism: A New Name for Some Old Ways of
-Thinking_, by William James. Originally published in 1907
 
 
 
