@@ -53,10 +53,10 @@ They appealed to me to make it a majority, one way or the other.
 Mindful of the scholastic adage that when you meet a contradiction,
 it's often helpful to make a distinction, I did.
 
-## What do you mean?
-
 "It seems to me," I said, "that it comes down to what you _practically mean_
 by 'going around' the squirrel."
+
+## What you mean
 
 
 "If you mean passing first from the north of him to the east, then to
@@ -71,7 +71,7 @@ it's obvious the man fails to go around the squirrel, because the
 squirrel keeps his belly turned towards the man the whole time. The
 man never gets _behind_ the squirrel."
 
-## The answer depends
+## So it depends
 
 "Make the distinction," I said, "and the argument is over. You are
 both right and both wrong depending on what you mean practically by
@@ -79,6 +79,10 @@ the phrase 'goes around'."
 
 For the most part everyone agreed: the answer depends upon what you
 mean when you say, "_Goes around_."
+
+
+
+## The End
 
 
 ----
