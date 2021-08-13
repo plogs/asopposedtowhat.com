@@ -79,13 +79,8 @@ both right and both wrong depending on what you mean when you say
 
 
 
-[^1]: From chapter 2 of:
+[^1]: From chapter 2 of
   _Pragmatism: A New Name for Some Old Ways of Thinking_, by William
   James. Originally published in 1907. I embellished the story
-  slightly. Go
-  [here](https://www.gutenberg.org/files/5116/5116-h/5116-h.htm#link2H_4_0004)
-  to read the original.
-
-
-
-
+  slightly. The original is available here:
+  https://www.gutenberg.org/files/5116/5116-h/5116-h.htm#link2H_4_0004
