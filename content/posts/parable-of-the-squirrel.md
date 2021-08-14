@@ -39,10 +39,7 @@ tree; but does the man go around the squirrel?
 In the unlimited leisure of the wilderness[^2], the discussion had
 grown contentious; everyone had taken sides
 
-
-## The controversy
-
-Half said _yes_ the man goes around the squirrel. Half said no he
+Half said _yes_ the man goes around the squirrel. Half said _no_ he
 doesn't.
 
 They appealed to me to make it a majority, one way or the other.
@@ -71,7 +68,7 @@ man never gets _behind_ the squirrel."
 
 "Make the distinction," I said, "and the argument is over. You are
 both right and both wrong depending on what you mean when you say
-'goes around'."
+'goes around' the squirrel."
 
 
 
