@@ -1,11 +1,15 @@
+clear
 echo "Is draft=false" ; sleep 2
 
+echo
 echo "-----------------------------------------"
 echo "Run .deploy..."
 echo "-----------------------------------------"
 sleep 1
 ksh ./.deploy
+sleep 1
 
+clear
 echo "-----------------------------------------"
 echo "Run .toprod..."
 echo "-----------------------------------------"

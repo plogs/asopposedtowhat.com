@@ -36,18 +36,14 @@ the squirrel?
 He goes around the _tree_, sure enough, and the squirrel is _on_ the
 tree; but does the man go around the squirrel?
 
-In the unlimited leisure of the wilderness, and after draining a few
-bottles of wine, the discussion had grown contentious. Which is to
-say, everyone had taken sides.
+In the unlimited leisure of the wilderness[^2], the discussion had
+grown contentious; everyone had taken sides
+
 
 ## The controversy
 
-Half said _yes_ the man goes around the squirrel. Half said, no, he
+Half said _yes_ the man goes around the squirrel. Half said no he
 doesn't.
-
-Yes, he does.
-
-_No_, he doesn't.
 
 They appealed to me to make it a majority, one way or the other.
 Mindful of the scholastic adage that when you meet a contradiction,
@@ -84,3 +80,5 @@ both right and both wrong depending on what you mean when you say
   James. Originally published in 1907. I embellished the story
   slightly. The original is available here:
   https://www.gutenberg.org/files/5116/5116-h/5116-h.htm#link2H_4_0004
+
+[^2]: And a few bottles of wine, no doubt.
