@@ -27,3 +27,15 @@ draft: false
 * Deep down inside we're all the same &mdash; Are you sure? said the man with
   stomach cancer.
 
+# All your eggs in one basket
+
+* Don't put all your eggs in one basket.
+  Do not dedicate all your resources to one project.[^1] Or, as Mark
+  Twain would say: "Put all your eggs in the one basket and &mdash; WATCH
+  THAT BASKET."[^2]
+
+
+[^1]: [Don't put all your eggs in one basket. en.wiktionary.org](https://en.wiktionary.org/wiki/don%27t_put_all_your_eggs_in_one_basket)
+
+[^2]: [_Pudd'nhead Wilson and Those Extraordinary Twins_, by Mark Twain - 1922](https://www.google.com/books/edition/Pudd_nhead_Wilson_and_Those_Extraordinar/SjDuAAAAMAAJ?hl=en&gbpv=1&bsq=put%20all%20your%20eggs)
+
