@@ -72,7 +72,7 @@ draft: false
 ### COVID-19:
 
   You had me at contaminated, Polio. But today with international
-  travel and such, being airborne is the ticket.
+  travel and such, being airborne is the key.
 
 
 ### POLIO:
