@@ -1,0 +1,9 @@
+:
+test $# -eq 0 && {
+    echo "Usage: $0 [post name]"
+    exit 1
+}
+
+name=$(echo $* | sed -e 's/ /_/g')
+
+hugo new posts/${name}.md

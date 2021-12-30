@@ -1,117 +1,123 @@
 ---
-title: "Thanks Anti-masker-vaxxers!"
-date: 2021-10-02T17:58:21-07:00
-draft: true
+title: "COVID-19 thanks anti-masker-vaxxers"
+date: 2021-12-25T17:58:21-07:00
+draft: false
 ---
 
 
-COVID19:
+### COVID-19:
 
-  Hello and welcome everyone (and I do mean everyone). I'm Covid,
-  here with Polio...
+  Hello and welcome everyone (and I do mean everyone). Covid here,
+  along with Polio...
 
-POLIO:
+### POLIO:
 
-  Hi, folks [always old and tired]
+  [looking old and tired]
 
-COVID19:
+  Hi, folks. I don't get out much now, it's a treat for me just to be
+  here.
 
-  We'd like to take just a moment of your time to say thanks. Thanks
-  to all the anti-vaxxers and anti-maskers for making COVID-19 such a
-  success.
+### COVID-19:
 
-POLIO:
+  We're here on behalf of viruses everywhere to say thanks. Thanks to
+  all you anti-masker-vaxxers for making this pandemic (and my
+  submicroscopic existence) such a success.
 
-  Go team [barely able to lift up his arm]
+### POLIO:
 
-COVID19:
+  [barely able to lift up his arm]
+
+  Go... team!
+
+
+### COVID-19:
 
   We recently reached our goal of 700,000 deaths...
 
-POLIO:
+### POLIO:
 
   [thumbs up]
 
-COVID19:
+### COVID-19:
 
-  ...in the wealthiest country in the world. Take a knee USA
-
-[Polio bobs his head to Covid voice over of: USA... USA... USA]
-
-COVID19:
-
-  Remember Saving Private Ryan? World War II? We 'lost' [air quotes]
-  400,000 American lives in that one. Covid 19? [smuggly] I've kill
-  almost twice as many.
+  ...in the wealthiest country in the world. Take a knee, USA.
 
 
-POLIO:
+### POLIO:
+
+  [Polio bobs his head and mouths: USA... USA... USA...]
+
+### COVID-19:
+
+  Remember Saving Private Ryan? World War II? We 'lost' 400,000
+  American lives in that one. Covid 19? I've killed almost twice as
+  many.
+
+
+### POLIO:
 
   And still counting.
 
 
-COVID19:
+### COVID-19:
 
-  That's right, Polio; thanks to anti-vaxxers and anti-maskers.
-
-
-POLIO:
-
-  I was spread through contaminated food and water.
+  That's right, Polio; thanks to anti-masker-vaxxers.
 
 
-COVID19:
+### POLIO:
 
-  You had me at contaminated, Polio; but as you know, I fly through
-  the air.
+  In my day it was all about contaminated food and water.
 
 
-POLIO:
+### COVID-19:
 
-  I wish I could have done that. [sullen doggy droopy face]
+  You had me at contaminated, Polio. But today with international
+  travel and such, being airborne is the ticket.
 
-COVID19:
 
-  Sorry, but those days are long gone. Today we have personal
-  freedoms. Forget about [wave hand, dismissive] your neighbor's
-  grandma. Hospital beds are meant to be used. We've even got people
-  hoarding toilet paper again.
+### POLIO:
 
-POLIO:
+ [with sullen doggy droopy face]
 
-  [very innocently] Is that because they're full of shit?
+  I wish I could fly.
 
-COVID19:
+### COVID-19:
+
+  Sure but it's not all about air travel. Today we've got personal
+  freedoms to deal with. Forget about your neighbor's grandma, your
+  overweight and immunocompromised friends. Hospital beds are meant
+  to be used. When people hoard toilet paper, then we know we're on
+  the right track.
+
+### POLIO:
+
+  Is that because they're full of shit?
+
+### COVID-19:
 
   No, Polio. It's because nobody wants to be a lab rat. It's a
-  personal freedom issue. But it's not all about us, right Polio?
+  personal freedom thing. We have anti-masker-vaxxers to thank. The
+  people who won't be muzzled.
 
 
-POLIO:
+### POLIO:
 
-  [quick head shake no, not all about us]
+  Right, our benefactors.
 
-COVID19:
+### COVID-19:
 
-  It's about the anti-maskers. People who won't be muzzled know that
-  your mouth DOES have RIGHTS.
+  That's right. And so once again, thanks anti-masker-vaxxer guys and
+  gals. Thanks for spreading me around. Feel free to blow me any
+  time. In a bar, in the car, at work, at the store; blow me when you
+  snore. It's all good. I'm contagious!
 
-  And so feel free to blow me, whenever you want. In a bar, in the
-  car, at work, at the store, blow me when you snore. I'm contagious!
-  [say 'contagious' like Eddie Murphy saying 'waffles']
-
-  I know it's a hard job, but some patriots got to do it if this
-  virus [pointing to self] going to reach a million deaths.
-
-  And you anti-vaxxers? [big smile] You're keeping us alive.
-
-POLIO:
-
-  Go Delta variant!
+  With enough hard work we'll reach a million deaths.
 
 
-COVID19:
+### POLIO:
 
-  That's all for now. [wave bye] Til next year!
+  Anti-masker-vaxxers are the ticket. Go Delta variant!
 
+### COVID-19:
 
+  And little Omicron, too. That's all for now. See you next year!

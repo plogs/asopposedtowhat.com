@@ -29,8 +29,8 @@ draft: false
 
 # All your eggs in one basket
 
-* Don't put all your eggs in one basket.
-  Do not dedicate all your resources to one project.[^1] Or, as Mark
+* Do not dedicate all your resources to one project.
+  Don't put all your eggs in one basket.[^1] Or, as Mark
   Twain would say: "Put all your eggs in the one basket and &mdash; WATCH
   THAT BASKET."[^2]
 
