@@ -61,7 +61,7 @@ draft: false
 
 ### COVID-19:
 
-  That's right, Polio; thanks to anti-masker-vaxxers.
+  That's right, Polio. Thanks to anti-masker-vaxxers.
 
 
 ### POLIO:
@@ -106,17 +106,17 @@ draft: false
 
 ### COVID-19:
 
-  That's right. And so once again, thanks anti-masker-vaxxer guys and
-  gals. Thanks for spreading me around. Feel free to blow me any
-  time. In a bar, in the car, at work, at the store; blow me when you
-  snore. It's all good. I'm contagious!
+  Yes, our benefactors. And so once again, thanks anti-masker-vaxxer
+  guys and gals. Thanks for spreading me around. Feel free to blow me
+  any time. In a bar, in the car, at work, at the store; blow me when
+  you snore. It's all good. I'm contagious!
 
   With enough hard work we'll reach a million deaths.
 
 
 ### POLIO:
 
-  Anti-masker-vaxxers are the ticket. Go Delta variant!
+  Thanks again, anti-masker-vaxxers. Go Delta variant!
 
 ### COVID-19:
 
