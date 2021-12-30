@@ -1,0 +1,15 @@
+
+# https://gohugo.io/getting-started/quick-start/
+
+hugo new site [sitename]
+
+hugo new posts/post-name-here.md
+
+  # go in content/posts/post-name-here.md
+
+git clone https://github.com/EmielH/tale-hugo.git themes/tale
+
+edit config.toml
+
+    theme = "tale"
+
