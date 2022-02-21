@@ -2,10 +2,8 @@
 title: "What would COVID say?"
 date: 2021-12-26T17:58:21-07:00
 draft: false
+image: CoV-2.jpg
 ---
-
-
-![Covid-19](/images/CoV-2.jpg)
 
 
 ### COVID-19:

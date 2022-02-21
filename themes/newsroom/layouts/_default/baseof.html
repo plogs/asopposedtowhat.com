@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+{{- $params := .Site.Params }}
+<html lang="{{ .Lang }}" {{ if $params.disableDarkMode }}class="nodarkmode"{{ end }}>
+  {{ partial "head" . }}
+  <body>
+    {{ partialCached "nav" . }}
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ partialCached "footer" . }}
+    {{ partialCached "sprites" . }}
+  </body>
+</html>

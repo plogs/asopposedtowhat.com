@@ -2,12 +2,9 @@
 title: "The parable of the squirrel"
 date: 2021-08-11T16:31:59-07:00
 draft: false
+image: squirrel-on-tree.jpg
 ---
 
-
-
-
-![squirrel on tree](/images/squirrel-on-tree.jpg)
 
 ## aka A ferocious metaphysical dispute[^1]
 
