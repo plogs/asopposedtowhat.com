@@ -15,6 +15,7 @@ cd $thisdir || {
 
 # cleanup
 test -d public && rm -rf public
+sleep 1
 
 echo "Run hugo to populate the public directory..."
 hugo || {
@@ -26,12 +27,15 @@ cd public || {
     echo "Error: could not cd to: public"
     exit 1
 }
+pwd
+sleep 1
 
 tmptar=/tmp/stevei.hugo.tar
 tar cvf $tmptar *
 
 targetDir=/run/media/stevei/plnkx/2019-github/asopposedtowhat.com
 echo "cd to: $targetDir"
+sleep 1
 
 cd $targetDir || {
     echo "Error: could not cd to: $targetDir"
@@ -42,6 +46,8 @@ tar xvf $tmptar
 cp $tmptar /tmp/stevei.tar
 
 rm -f $tmptar
+pwd
+sleep 1
 
 cd $thisdir || {
     echo "Error: could not cd to: $thisdir"
@@ -49,6 +55,8 @@ cd $thisdir || {
 }
 
 rm -rf public/
+
+echo "Now cd $targetDir and check in..."
 
 echo Done
 exit 0
