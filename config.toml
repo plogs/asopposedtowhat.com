@@ -1,21 +1,28 @@
 baseURL = "https://asopposedtowhat.com"
 languageCode = "en-us"
 title = "AsOpposedToWhat.com"
-# theme = "tale"
-theme = "newsroom"
-
 
 # See themes/tale/layouts/partials/head.html
 # googleAnalytics = "UA-88355709-2"
 
+theme = "tale"
 
-# ids used below are not valid. Replace with valid ones
-[params]
-  locale = "en_US"
-  ga_analytics = "UA-88355709-2" # google analytics ID e.g UA-116386578-1
-  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  # twitter = "" # twitter handle e.g @weru
-  # mainSections = ["blog", "docs"] see https://gohugo.io/functions/where/#mainsections
-  # uncomment the line below will disable darkmode by default.
-  disableDarkMode = true  # note that the UI control for toggling darkmode will remain in place. This way, the user can decide which mode they would like to use while browsing your website
-
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about"
+    weight = 0
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = 0
+  [[menu.main]]
+    identifier = "church"
+    name = "'Church'"
+    title = "Church"
+    url = "https://church.of.the.asopposedtowhat.com"
+    weight = 0
