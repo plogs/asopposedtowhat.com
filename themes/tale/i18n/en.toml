@@ -1,0 +1,12 @@
+# [writtenBy]
+# other = "Written by"
+
+[on]
+other = ""
+# other = "on"
+
+[generator]
+other = "AsOpposedToWhat.com"
+
+[publishdate]
+other = "{{ .PublishDate.Format \"January 2, 2006\" }}"

@@ -1,0 +1,11 @@
+[writtenBy]
+other = "Von"
+
+[on]
+other = "am"
+
+[generator]
+other = "AsOpposedToWhat.com"
+
+[publishdate]
+other = "{{ .PublishDate.Day }}. {{ index $.Site.Data.months_de (printf \"%d\" .PublishDate.Month) }} {{ .PublishDate.Year }}"

@@ -1,3 +1,10 @@
+layouts/partials/index/introduction.html
+
+
+themes/tale/i18n/pl.toml themes/tale/i18n/de.toml themes/tale/i18n/en.toml
+
+
+
 
 # https://gohugo.io/getting-started/quick-start/
 

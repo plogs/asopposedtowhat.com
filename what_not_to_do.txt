@@ -1,0 +1,7 @@
+
+
+videos
+ * Don't say "let's get started"
+ * Don't say "remember to subscribe (check that bell)"
+ * Don't have intro music (or not longer than 3 seconds)
+ * Don't say "welcome to my channel"
