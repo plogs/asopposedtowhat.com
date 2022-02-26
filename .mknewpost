@@ -1,0 +1,10 @@
+:
+
+title=$1
+
+test $# -ne 1 && {
+    echo "Usage: $0 [title]"
+    exit 1
+}
+
+hugo new posts/${title}.md

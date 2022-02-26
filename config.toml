@@ -5,24 +5,26 @@ title = "AsOpposedToWhat.com"
 # See themes/tale/layouts/partials/head.html
 # googleAnalytics = "UA-88355709-2"
 
+# theme = "newsroom"
 theme = "tale"
 
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    title = "About"
-    url = "/about"
-    weight = 0
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
     title = "Posts"
     url = "/posts/"
-    weight = 0
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about"
+    weight = 2
   [[menu.main]]
     identifier = "church"
-    name = "'Church'"
+    name = "Church"
     title = "Church"
     url = "https://church.of.the.asopposedtowhat.com"
-    weight = 0
+    weight = 3
+
