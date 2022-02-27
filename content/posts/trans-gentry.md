@@ -22,6 +22,9 @@ something special.
 When I look in the mirror, I see a worker's body, but deep down inside
 I know that I'm a king. Yes, a king born in a worker's body.
 
+
+![king with crown](/images/King_of_Persis_Ardashir_II_with_crown_1st_century_BCE.jpg)
+
 My [lived experience](https://en.wikipedia.org/wiki/Lived_experience)
 reveals to me just how king-like I am. For example, I truly enjoy it
 when people (of any class) wait on me and bring me things. They might
