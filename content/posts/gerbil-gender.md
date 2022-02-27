@@ -1,5 +1,5 @@
 ---
-title: "Do gerbils have a gender?"
+title: "Does my gerbil have a gender?"
 date: 2022-02-26T16:50:56-08:00
 draft: false
 ---
@@ -8,8 +8,9 @@ draft: false
 
 The short answer is No.
 
-Gerbils are animals that have a
-[sex](https://en.wikipedia.org/wiki/Sex), but not a gender.
+[Gerbils](https://en.wikipedia.org/wiki/Mongolian_gerbil) are animals
+that have a [sex](https://en.wikipedia.org/wiki/Sex), but not a
+gender.
 
 
 ## Sex
