@@ -86,6 +86,6 @@ At all other times, _YourHighness_ will do.[^1]
 [^1]: Failing to respect someone else's identity
 preferences is not only disrespectful and hurtful, but also oppressive.
  _Thanks in advance_ for not using pronouns that make me
-feel disrespected, invalidated, dismissed, alienated, or dysphoric.
+feel disrespected, invalidated, dismissed, alienated, or gentry dysphoric.
 [https://uwm.edu/lgbtrc/support/gender-pronouns/]
 
