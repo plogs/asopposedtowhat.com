@@ -5,6 +5,7 @@ draft: false
 image: CoV-2.jpg
 ---
 
+![picture of covid](/images/CoV-2.jpg)
 
 ### COVID-19:
 

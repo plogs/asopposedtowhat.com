@@ -28,3 +28,4 @@ theme = "tale"
     url = "https://church.of.the.asopposedtowhat.com"
     weight = 3
 
+# https://stackoverflow.com/questions/63198652/hugo-shortcode-ignored-saying-raw-html-omitted

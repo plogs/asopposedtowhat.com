@@ -5,6 +5,7 @@ draft: false
 image: squirrel-on-tree.jpg
 ---
 
+![picture of covid](/images/squirrel-on-tree.jpg)
 
 ## aka A ferocious metaphysical dispute[^1]
 
