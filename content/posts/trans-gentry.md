@@ -35,20 +35,21 @@ classes, but I do, and I wish them well.
 
 Why mention my _[gentry](https://en.wikipedia.org/wiki/Gentry) dysphoria_ now?
 
-The answer is simple: pronouns.
+The answer is simple: bully pronouns.
 
-Not only has it become socially acceptable to come out as 'trans', but now
-it's also common to tell others what words to use, and when.
+Not only has it become socially acceptable to come out as 'trans',
+but now it's also acceptable to dictate to others what words to use,
+and when. This seems like bully behaviour to me, but rather than
+resit it, I choose to embrace it.
+
+
+## Bully pronouns
 
 A pronoun is a word that refers to a participant in a discourse. For
 example, _she_ said this, or _he_ said that, or _they_ are coming
 over for dinner.
 
-In the good old days a handful of pronouns sufficed. Today we have
-'gender neutral' and 'gender inclusive' pronouns.
-
-It used to
-be:
+In the good old days a handful of pronouns sufficed. It used to be:
 
 - he
 - she
@@ -59,7 +60,8 @@ be:
 - they
 - them
 
-Now it's:
+But now we have 'gender neutral' and 'gender inclusive' pronouns. So
+it's:
 
 - ve
 - ze
@@ -70,15 +72,15 @@ Now it's:
 - xyrs
 - xem
 
-
-and so on. And when I say 'and so on' I mean there are many ([78
-gender pronouns?](https://bobcutmag.com/2021/09/07/what-are-the-78-gender-pronouns/)).
+and so on. And when I say 'and so on' I mean there are many more ([78
+gender
+pronouns?](https://bobcutmag.com/2021/09/07/what-are-the-78-gender-pronouns/)).
 Language, as you know, evolves.
 
-But I did not invent a new pronoun for my new identity. I didn't have
-to. The existing usage will suffice.
+I did not, however, have to invent a new pronoun to match my new identity.
+The existing usage will suffice.
 
-## Preferred gentry pronouns (PGP)
+## My preferred gentry pronouns (PGP)
 
 You may call me _YourHighness_ or _YourMajesty_ when you are in my
 presence. For example, _HisHighness_ said this, or _YourMajesty_ said that.
@@ -86,9 +88,10 @@ presence. For example, _HisHighness_ said this, or _YourMajesty_ said that.
 At all other times, _YourHighness_ will do.[^1]
 
 
-[^1]: Failing to respect someone else's identity
-preferences is not only disrespectful and hurtful, but also oppressive.
- _Thanks in advance_ for not using pronouns that make me
-feel disrespected, invalidated, dismissed, alienated, or gentry dysphoric.
-[https://uwm.edu/lgbtrc/support/gender-pronouns/]
+[^1]: Failing to respect someone else's identity preferences is not
+only disrespectful and hurtful, but also oppressive. So thanks in
+advance for not using pronouns that make me feel disrespected,
+invalidated, dismissed, alienated, or gentry dysphoric.
+https://uwm.edu/lgbtrc/support/gender-pronouns/ See 'Why is it
+important to respect people's pronouns?'
 
