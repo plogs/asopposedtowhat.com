@@ -22,7 +22,7 @@ something special.
 When I look in the mirror, I see a worker's body, but deep down inside
 I know that I'm a king. Yes, a king born in a worker's body.
 
-My [lived experience](https://en.wikipedia.org/wiki/Lived_experience)[^1]
+My [lived experience](https://en.wikipedia.org/wiki/Lived_experience)
 reveals to me just how king-like I am. For example, I truly enjoy it
 when people (of any class) wait on me and bring me things. They might
 not appreciate the gaping disparity in our respective social
@@ -30,7 +30,7 @@ classes, but I do, and I wish them well.
 
 ## My Gentry dysphoria
 
-Why mention my _[gentry](https://en.wikipedia.org/wiki/Gentry) dysphoria_ now?[^2]
+Why mention my _[gentry](https://en.wikipedia.org/wiki/Gentry) dysphoria_ now?
 
 The answer is simple: pronouns.
 
@@ -75,17 +75,17 @@ Language, as you know, evolves.
 But I did not invent a new pronoun for my new identity. I didn't have
 to. The existing usage will suffice.
 
-## My Preferred gentry pronouns (PGP)
+## Preferred gentry pronouns (PGP)
 
 You may call me _YourHighness_ or _YourMajesty_ when you are in my
 presence. For example, _HisHighness_ said this, or _YourMajesty_ said that.
 
-At all other times, _YourHighness_ will do.[^3]
+At all other times, _YourHighness_ will do.[^1]
 
 
-[^1]: Is there any other kind?
-[^2]: See also [Gender Dysphoria](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria)
-[^3]: _Thanks in advance_ for not making me feel disrespected,
-invalidated, dismissed, alienated, or dysphoric (or sometimes all of
-the above). [https://uwm.edu/lgbtrc/support/gender-pronouns/]
+[^1]: Failing to respect someone else's identity
+preferences is not only disrespectful and hurtful, but also oppressive.
+ _Thanks in advance_ for not using pronouns that make me
+feel disrespected, invalidated, dismissed, alienated, or dysphoric.
+[https://uwm.edu/lgbtrc/support/gender-pronouns/]
 
