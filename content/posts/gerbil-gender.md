@@ -1,5 +1,5 @@
 ---
-title: "Does my gerbil have a gender?"
+title: "Do gerbils have a gender?"
 date: 2022-02-26T16:50:56-08:00
 draft: false
 ---
