@@ -5,6 +5,8 @@ title = "AsOpposedToWhat.com"
 # See themes/tale/layouts/partials/head.html
 # googleAnalytics = "UA-88355709-2"
 
+googleAnalytics = 'G-B4P34ZJVFM'
+
 # theme = "newsroom"
 theme = "tale"
 
