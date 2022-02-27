@@ -39,8 +39,8 @@ The answer is simple: bully pronouns.
 
 Not only has it become socially acceptable to come out as 'trans',
 but now it's also acceptable to dictate to others what words to use,
-and when. This seems like bully behaviour to me, but rather than
-resit it, I choose to embrace it.
+and when. This seems like bully behavior to me, but rather than
+resist it, I choose to embrace it.
 
 
 ## Bully pronouns
