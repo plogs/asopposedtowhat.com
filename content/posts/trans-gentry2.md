@@ -27,7 +27,7 @@ surprised by what came out. Here's what came out.
 
 All my life I've felt like I was something different, maybe even
 something special. When I look in the mirror, I see a worker, a
-comman man; but that's not all. Deep down inside I also see a king.
+common man; but that's not all. Deep down inside I also see a king.
 Yes, a king born in a worker's body. I've felt this way all my life.
 
 
