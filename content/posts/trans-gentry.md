@@ -1,7 +1,7 @@
 ---
 title: "Coming Out TransGentry"
 date: 2022-02-26T11:35:20-08:00
-draft: false
+draft: true
 ---
 
 It's socially acceptable to come out '[trans](https://www.merriam-webster.com/dictionary/trans)' nowadays, so here goes,
