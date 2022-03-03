@@ -8,26 +8,36 @@ title = "AsOpposedToWhat.com"
 googleAnalytics = 'G-B4P34ZJVFM'
 
 # theme = "newsroom"
-theme = "tale"
+# theme = "tale"
+theme = "bootstrap"
+
+copyright = "Copyright {year} Steve Isaacson"
+logo = "false"
 
 [menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    title = "Home"
+    url = "/"
+    weight = 1
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
     title = "Posts"
     url = "/posts/"
-    weight = 1
+    weight = 2
   [[menu.main]]
     identifier = "about"
     name = "About"
     title = "About"
     url = "/about"
-    weight = 2
+    weight = 3
   [[menu.main]]
     identifier = "church"
-    name = "Church"
+    name = "Church.of.the.aotw"
     title = "Church"
     url = "http://church.of.the.asopposedtowhat.com"
-    weight = 3
+    weight = 4
 
 # https://stackoverflow.com/questions/63198652/hugo-shortcode-ignored-saying-raw-html-omitted

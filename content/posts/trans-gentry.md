@@ -49,7 +49,7 @@ A pronoun is a word that refers to a participant in a discourse. For
 example, _she_ said this, or _he_ said that, or _they_ are coming
 over for dinner.
 
-In the good old days a handful of pronouns sufficed. It used to be:
+Pronouns used to be self-evident:
 
 - he
 - she
@@ -72,15 +72,17 @@ it's:
 - xyrs
 - xem
 
-and so on. And when I say 'and so on' I mean there are many more ([78
+and so on. And when I say _and so on_ I mean there are many more ([78
 gender
 pronouns?](https://bobcutmag.com/2021/09/07/what-are-the-78-gender-pronouns/)).
 Language, as you know, evolves.
 
-I did not, however, have to invent a new pronoun to match my new identity.
-The existing usage will suffice.
+I did not, however, have to invent new pronouns to match my new
+identity. Adequate pronouns were already available.
 
 ## My preferred gentry pronouns (PGP)
+
+Here, then, are my preferred gentry pronouns.
 
 You may call me _YourHighness_ or _YourMajesty_ when you are in my
 presence. For example, _HisHighness_ said this, or _YourMajesty_ said that.
