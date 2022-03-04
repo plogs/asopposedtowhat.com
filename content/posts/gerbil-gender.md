@@ -29,8 +29,13 @@ organisms produce larger gametes (ova, often called egg cells)."[^1]
 
 Organisms that produce both types of gametes are called
 [hermaphrodites](https://en.wikipedia.org/wiki/Hermaphrodite).
-Earthworms and slugs are examples of hermaphrodites.
+"Hermaphroditism is a normal condition, enabling a form of sexual
+reproduction in which either partner can act as the female or male."
 
+"There have been no identified cases of a human reproducing as both
+male and female."[^2]
+
+Earthworms and slugs are examples of hermaphrodites.
 
 ## Gender
 
@@ -48,10 +53,11 @@ two. See, for example, [68 Terms That Describe Gender Identity and Expression](h
 
 
 "Sex is a biological concept; gender is a human social and cultural
-concept."[^2]
+concept."[^3]
 
 Gerbil's do not have a gender. Their sex is male or female.
 
 
 [^1]: https://en.wikipedia.org/wiki/Sex
-[^2]: https://en.wikipedia.org/wiki/Gender#cite_note-117
+[^2]: https://en.wikipedia.org/wiki/Hermaphrodite#cite_note-10
+[^3]: https://en.wikipedia.org/wiki/Gender#cite_note-117
