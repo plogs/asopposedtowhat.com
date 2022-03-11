@@ -1,7 +1,7 @@
 ---
 title: "Do billiard balls have free will?"
 date: 2022-03-10T11:28:15-08:00
-draft: true
+draft: false
 ---
 
 
