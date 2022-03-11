@@ -1,10 +1,12 @@
 :
-
-title=$1
-
-test $# -ne 1 && {
-    echo "Usage: $0 [title]"
+test $# -eq 0 && {
+    echo "Usage: $0 [post name]"
     exit 1
 }
 
-hugo new posts/${title}.md
+name=$(echo $* | sed -e 's/ /-/g')
+
+hugo new posts/${name}.md
+
+# todo this better
+echo "content/posts/$(ls -t content/posts | sed 1q)"
