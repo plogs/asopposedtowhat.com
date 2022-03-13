@@ -15,3 +15,5 @@ echo "Run .toprod..."
 echo "-----------------------------------------"
 sleep 1
 ksh ./.toprod
+
+echo "See /run/media/stevei/plnkx/2019-github/asopposedtowhat.com"
