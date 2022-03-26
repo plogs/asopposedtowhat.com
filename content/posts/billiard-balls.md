@@ -34,7 +34,8 @@ do only what they were programmed to do.
 
 What about some future artificial intelligence robot that mimics
 human behavior so thoroughly that it's able to learn and behaves so
-convincingly that it's able to pass the Turing Test?
+convincingly that it's able to pass the [Turing
+test](https://en.wikipedia.org/wiki/Turing_test)?
 
 For example, suppose that when traveling to the United Kingdom, the
 robot (while driving a car) figures out that it's best to drive on

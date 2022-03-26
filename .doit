@@ -10,10 +10,13 @@ ksh ./.deploy
 sleep 1
 
 clear
+echo
 echo "-----------------------------------------"
 echo "Run .toprod..."
 echo "-----------------------------------------"
 sleep 1
 ksh ./.toprod
+
+echo
 
 echo "See /run/media/stevei/plnkx/2019-github/asopposedtowhat.com"
