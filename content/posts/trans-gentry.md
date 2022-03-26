@@ -1,55 +1,69 @@
 ---
-title: "Coming Out TransGentry"
+title: "On coming out TransGentry"
 date: 2022-02-26T11:35:20-08:00
-draft: true
+draft: false
 ---
 
-It's socially acceptable to come out '[trans](https://www.merriam-webster.com/dictionary/trans)' nowadays, so here goes,
-I'm coming out.
+In these socially enlightened times it seems like everyone and his
+brother is coming out with a new identity. We're rife with
+transformations. Who knew?
 
-But first I want to say that I'm not proud of the fact that I've
-waited this long to come out, but I'm also not embarrassed -- at
-least not any longer. If
-[postmodernism](https://en.wikipedia.org/wiki/Postmodernism) has
-taught us anything, it's taught us that we can be whoever we say we
-are and fuck-you bigots if you disagree.
+But why now? Have we always had men who are really women and women
+who are really men, and just not noticed? Apparently so. And woe to
+any bigot or non-[woke](https://en.wikipedia.org/wiki/Woke)
+individual who speaks out contrariwise.
 
-What am I coming out as?
+Most people agree that adults have the right to transform themselves
+in a way that makes their life better. Why not? Why do we care? More
+power to them.
+
+But sadly, the
+[postmodernist](https://en.wikipedia.org/wiki/Postmodernism) thinking
+that's often dragged out to justify the new world order is seen by
+many to have gone too far.
+
+Reality, it seems, is a fairy story. What's real? Well nothing is
+_real_. It's your vibe, man, whatever you feel, your [lived
+experience](https://en.wikipedia.org/wiki/Lived_experience). If it
+feels right for you, then it's real for you.
+
+Contrary to the patriarchy's epistemology, nothing is _really_ real.
+It's all socially constructed.
+
+So I, too, threw my hat into the transformation ring.
 
 All my life I've felt like I was something different, maybe even
-something special.
-
-When I look in the mirror, I see a worker's body, but deep down inside
-I know that I'm a king. Yes, a king born in a worker's body.
+something special. When I look in the mirror, I see a worker, a
+common man; but that's not all. Deep down inside I also see a king.
+Yes, a king born in a worker's body. I've felt this way all my life.
 
 
 ![king with crown](/images/King_of_Persis_Ardashir_II_with_crown_1st_century_BCE.jpg)
 
-My [lived experience](https://en.wikipedia.org/wiki/Lived_experience)
-reveals to me just how king-like I am. For example, I truly enjoy it
-when people (of any class) wait on me and bring me things. They might
-not appreciate the gaping disparity in our respective social
-classes, but I do, and I wish them well.
+My 'lived experience' reveals to me just how king-like I am. For
+example, I truly enjoy it when people (of any class) wait on me and
+bring me things. They might not appreciate the gaping disparity in
+our respective social classes, but I do, and I wish them well.
 
-## My Gentry dysphoria
+## Gentry dysphoria
 
-Why mention my _[gentry](https://en.wikipedia.org/wiki/Gentry) dysphoria_ now?
+Why mention my _[gentry](https://en.wikipedia.org/wiki/Gentry)
+dysphoria_ now, after years of living like a peasant and making do?
 
-The answer is simple: bully pronouns.
+The answer is simple: pronouns.
 
-Not only has it become socially acceptable to come out as 'trans',
-but now it's also acceptable to dictate to others what words to use,
-and when. This seems like bully behavior to me, but rather than
-resist it, I choose to embrace it.
+In these socially malleable times one may now demand that a pronoun
+serves at the pleasure of a given participant. In truth, failure to
+do so may even be considered _oppressive_.[^1]
 
-
-## Bully pronouns
+## Pronouns
 
 A pronoun is a word that refers to a participant in a discourse. For
 example, _she_ said this, or _he_ said that, or _they_ are coming
 over for dinner.
 
-Pronouns used to be self-evident:
+
+Pronouns used to be self-evident. For example:
 
 - he
 - she
@@ -60,8 +74,7 @@ Pronouns used to be self-evident:
 - they
 - them
 
-But now we have 'gender neutral' and 'gender inclusive' pronouns. So
-it's:
+Now we have 'gender neutral' and 'gender inclusive' pronouns, such as:
 
 - ve
 - ze
@@ -69,31 +82,36 @@ it's:
 - xyr
 - perself
 - verself
-- xyrs
-- xem
+- humself
 
-and so on. And when I say _and so on_ I mean there are many more ([78
-gender
+And there are many more ([What are the 78 Gender
 pronouns?](https://bobcutmag.com/2021/09/07/what-are-the-78-gender-pronouns/)).
 Language, as you know, evolves.
 
-I did not, however, have to invent new pronouns to match my new
-identity. Adequate pronouns were already available.
+Demands to use certain words by the language police (or by anyone
+else for that matter) is of course bad form and extremely annoying.
+
+Nevertheless, people sometimes cloyingly insist on the use of their
+new and improved personal pronouns. It's all about ~~them~~
+him/her/xem/zur/it.
+
+In those cases I, too, have preferred pronouns.
 
 ## My preferred gentry pronouns (PGP)
 
-Here, then, are my preferred gentry pronouns.
 
-You may call me _YourHighness_ or _YourMajesty_ when you are in my
-presence. For example, _HisHighness_ said this, or _YourMajesty_ said that.
+Whilst in my presence you may call me _YourHighness_ or _YourMajesty_.
 
-At all other times, _YourHighness_ will do.[^1]
+For example, _HisHighness_ said this, or
+_my liege_ said that, or _HisMajesty_ is coming over for dinner.
 
+At all other times, _YourHighness_ will do.
 
-[^1]: Failing to respect someone else's identity preferences is not
-only disrespectful and hurtful, but also oppressive. So thanks in
-advance for not using pronouns that make me feel disrespected,
-invalidated, dismissed, alienated, or gentry dysphoric.
-https://uwm.edu/lgbtrc/support/gender-pronouns/ See 'Why is it
-important to respect people's pronouns?'
+Thanks in advance for respecting my identity as I see it.
 
+[^1]: Failing to respect someone else's identity preferences "is not
+only disrespectful and hurtful, but also oppressive," says The University of
+Wisconsin, Milwaukee. Indeed, "When someone is referred to with the
+wrong pronoun, it can make them feel disrespected, invalidated,
+dismissed, alienated, or [gentry] dysphoric."
+https://uwm.edu/lgbtrc/support/gender-pronouns/
