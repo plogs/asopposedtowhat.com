@@ -89,11 +89,11 @@ pronouns?](https://bobcutmag.com/2021/09/07/what-are-the-78-gender-pronouns/)).
 Language, as you know, evolves.
 
 Demands to use certain words by the language police (or by anyone
-else for that matter) is of course bad form and extremely annoying.
+else for that matter) are of course bad form, and extremely annoying.
 
 Nevertheless, people sometimes cloyingly insist on the use of their
-new and improved personal pronouns. It's all about ~~them~~
-him/her/xem/zur/it.
+new and improved personal pronouns. Why? Because it's
+really all about ~~them~~ him/her/xem/zur/it.
 
 In those cases I, too, have preferred pronouns.
 
