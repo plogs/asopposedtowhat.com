@@ -92,8 +92,8 @@ Demands to use certain words by the language police (or by anyone
 else for that matter) are of course bad form, and extremely annoying.
 
 Nevertheless, people sometimes cloyingly insist on the use of their
+new and improved personal pronouns. When that happens, I roll out my
 new and improved personal pronouns.
-When that happens, I roll out my preferred pronouns.
 
 
 ## My preferred gentry pronouns (PGP)
