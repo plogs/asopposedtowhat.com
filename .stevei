@@ -9,6 +9,8 @@ git submodule add https://github.com/razonyang/hugo-theme-bootstrap.git \
   themes/bootstrap
 
 
+git submodule add https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme.git themes/minimal-bootstrap-hugo-theme
+
 
 
 # https://gohugo.io/getting-started/quick-start/
