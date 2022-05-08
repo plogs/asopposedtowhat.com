@@ -22,12 +22,12 @@ But sadly, the
 that's often dragged out to justify the new world order is seen by
 many to have gone too far.
 
-Reality, it seems, is a fairy story. What's real? Well nothing is
-_real_. It's your vibe, man, whatever you feel, your [lived
-experience](https://en.wikipedia.org/wiki/Lived_experience). If it
-feels right for you, then it's real for you.
-
-Contrary to the patriarchy's epistemology, nothing is _really_ real.
+Reality, it seems, is not real.
+The idea that there is an objective reality independent of human beings
+is dismissed by postmodernists as a kind of naive realism.[^1]
+So what _is_ real? Well, nothing, except
+whatever you feel is real; you know, your [lived
+experience](https://en.wikipedia.org/wiki/Lived_experience).
 It's all socially constructed.
 
 So I, too, threw my hat into the transformation ring.
@@ -54,7 +54,7 @@ The answer is simple: pronouns.
 
 In these socially malleable times one may now demand that a pronoun
 serves at the pleasure of a given participant. In truth, failure to
-do so may even be considered _oppressive_.[^1]
+do so may even be considered _oppressive_.[^2]
 
 ## Pronouns
 
@@ -92,10 +92,9 @@ Demands to use certain words by the language police (or by anyone
 else for that matter) are of course bad form, and extremely annoying.
 
 Nevertheless, people sometimes cloyingly insist on the use of their
-new and improved personal pronouns. Why? Because it's
-really all about ~~them~~ him/her/xem/zur/it.
+new and improved personal pronouns.
+When that happens, I roll out my preferred pronouns.
 
-In those cases I, too, have preferred pronouns.
 
 ## My preferred gentry pronouns (PGP)
 
@@ -107,9 +106,13 @@ _my liege_ said that, or _HisMajesty_ is coming over for dinner.
 
 At all other times, _YourHighness_ will do.
 
-Thanks in advance for respecting my identity as I see it.
+We have spoken.
 
-[^1]: Failing to respect someone else's identity preferences "is not
+[^1]: Duignan, Brian. "Postmodernism". Britannica.com.
+https://www.britannica.com/topic/postmodernism-philosophy
+
+
+[^2]: Failing to respect someone else's identity preferences "is not
 only disrespectful and hurtful, but also oppressive," says The University of
 Wisconsin, Milwaukee. Indeed, "When someone is referred to with the
 wrong pronoun, it can make them feel disrespected, invalidated,
