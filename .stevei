@@ -36,3 +36,8 @@ edit config.toml
 
   hugo new theme aotw
 
+
+
+----------------------------------------------------------------------
+
+url = https://github.com/EmielH/tale-hugo.git
