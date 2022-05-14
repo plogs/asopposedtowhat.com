@@ -40,7 +40,7 @@ logo = "false"
     identifier = "church"
     name = "Church.of.the.aotw"
     title = "Church"
-    url = "church.of.the.asopposedtowhat.com"
+    url = "http://church.of.the.asopposedtowhat.com"
     weight = 4
 
 # https://stackoverflow.com/questions/63198652/hugo-shortcode-ignored-saying-raw-html-omitted
