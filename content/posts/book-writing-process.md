@@ -42,9 +42,9 @@ be interested in hearing what you have to say, or for people who you
 think would like to hear your answer to the question you think is
 interesting.
 
-It's easy to imagine you're writing is so fascinating that it's for
-every man. But that's not really ever the case. Not everyone wants to
-read a mystery, or a horror story, or a romance novel, or a
+It's easy to imagine that your writing is so fascinating that it's
+for everyone. But that's not really ever the case. Not everyone wants
+to read a mystery, or a horror story, or a romance novel, or a
 scientific treatise on nuclear physics, or speculations on how many
 angels can dance on the head of a pin.
 
