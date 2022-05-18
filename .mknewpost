@@ -1,6 +1,7 @@
 :
 test $# -eq 0 && {
     echo "Usage: $0 [post name]"
+    echo "  creates content/posts/[post-name].md"
     exit 1
 }
 
@@ -9,4 +10,6 @@ name=$(echo $* | sed -e 's/ /-/g')
 hugo new posts/${name}.md
 
 # todo this better
-echo "content/posts/$(ls -t content/posts | sed 1q)"
+# echo "content/posts/$(ls -t content/posts | sed 1q)"
+echo
+echo "See content/posts/${name}.md"
