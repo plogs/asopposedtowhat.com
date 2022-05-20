@@ -4,16 +4,17 @@ date: 2022-05-18T16:04:32-07:00
 draft: true
 ---
 
-# Welcome once again to The Devil's Advocate
+# Intro
+"Welcome once again to The Devil's Advocate"
 
-Here's, Steve 
+"Here's, Steve"
 
 (Similiar to http://www.lehtoslaw.com)
 
 
 ## YouTube things not to say
 
-* Now let's get started!
+* Let's get started!
 * Remember to subscribe
 * Click the bell, etc.
 
@@ -42,12 +43,74 @@ Here's, Steve
   When you leave the house, society will kick you in your _fucking ass_.
   Life will fuck you up if you're not fucking ready. Sorry.
 
-* David Goggins - [Sounds like a straight bitch when I listen to that [tape of myself]](https://www.youtube.com/watch?v=qnP123BM5FI)
+* David Goggins - [Sounds like a straight bitch when I listen to that
+  [tape of myself]](https://www.youtube.com/watch?v=qnP123BM5FI)
 
 * Richard Feynman. [Why.](https://www.youtube.com/watch?v=36GT2zI8lVA)
   When you explain a 'why' you have to be in some framework that you allow
   something to be true. Otherwise you're perpetually asking why.
 
-* David Goggins - Stop Bitching [What the fuck are you doing about it?](https://www.youtube.com/watch?v=kz5sBHOi3CQ)
+* David Goggins - Stop Bitching
+  [What the fuck are you doing about it?](https://www.youtube.com/watch?v=kz5sBHOi3CQ)
 
+* David Goggins | Stop Caring What Other People Think Of You
+  [https://www.youtube.com/watch?v=YrSLOHt3urY](https://www.youtube.com/watch?v=YrSLOHt3urY)
+
+
+
+* Gary Vee
+  [Stop watching fucking lost](https://www.youtube.com/watch?v=TJ0Uaag5s60)
+
+
+## joke ideas
+
+* I like the deadpan look  when he's caught -
+  [Playing THE FORBIDDEN RIFF in a Huge Guitar Store](https://www.youtube.com/watch?v=_2Z-5Bop7-g)
+
+
+> head turn, eyebrow lift [deadpan]
+>
+> [voice over] as opposed to what...
+
+"As opposed to what? ...
+
+"Do you mean..."
+
+ * there's more than one way to look at this?
+
+ * there's not only _one_ way to look at this?
+
+ * there's another way to look a this?
+
+ * I might be wrong?
+
+ * there's another answer?
+
+ * there's another approach?
+
+ * there's another solution?
+
+ * that doesn't make sense?
+
+ * I should think about this again?
+
+ * I should take another look?
+
+ * there's another way to view the world?
+
+ * there's an alternate explanation?
+
+ * there's a better way to look at this?
+
+ * there's a more charitable way to look at this?
+
+ * there's a simpler view?
+
+ * that other normal people, like me, see things differently?
+
+ * there's another way to look at this?
+
+ *
+
+ * 
 
