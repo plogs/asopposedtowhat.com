@@ -214,7 +214,7 @@ reality and stop lying to yourself. 90% of small businesses fail
 within the first year. You are not a writer, you are a statistic.
 
 In closing, we should all admit that advice like this is easy to give
-but few will follow it.
+but difficult to follow.  Few will do it.
 
 Long story short: _writing is work_. You must
 figure out a process that works for you, and then do it.
