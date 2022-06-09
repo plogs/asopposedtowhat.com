@@ -24,6 +24,7 @@ draft: true
 * Make no excuses... no apologies
 * Don't be boring
 * Don't be a dick, even if it's funny.
+* Do not come in with an axe to grind. (be a gadfly instead?)
 
 
 ## Things _try_ to do
@@ -114,3 +115,11 @@ draft: true
 
  * 
 
+
+
+## misc. notes
+
+A prescription for those of us with
+[inattentional blindness](https://en.wikipedia.org/wiki/Inattentional_blindness).
+
+The feeling that: There's very damn few us of, but you are not alone.

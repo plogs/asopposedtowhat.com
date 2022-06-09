@@ -44,3 +44,7 @@ logo = "false"
     weight = 4
 
 # https://stackoverflow.com/questions/63198652/hugo-shortcode-ignored-saying-raw-html-omitted
+
+
+[markup.goldmark.renderer]
+    unsafe= true

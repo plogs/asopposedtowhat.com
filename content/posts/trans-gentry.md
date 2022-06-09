@@ -4,9 +4,9 @@ date: 2022-02-26T11:35:20-08:00
 draft: false
 ---
 
-In these socially enlightened times it seems like everyone and his
-brother is coming out with a new identity. We're rife with
-transformations. Who knew?
+In these socially enlightened times it seems everyone and his brother
+is coming out with a new identity. We're rife with transformations.
+Who knew?
 
 But why now? Have we always had men who are really women and women
 who are really men, and just not noticed? Apparently so. And woe to
@@ -34,8 +34,9 @@ So I, too, threw my hat into the transformation ring.
 
 All my life I've felt like I was something different, maybe even
 something special. When I look in the mirror, I see a worker, a
-common man; but that's not all. Deep down inside I also see a king.
-Yes, a king born in a worker's body. I've felt this way all my life.
+common man; but that's not all. Deep down inside I also see a king. A
+king born in a worker's body? Apparently so. I've felt this way all
+my life.
 
 
 ![king with crown](/images/King_of_Persis_Ardashir_II_with_crown_1st_century_BCE.jpg)
