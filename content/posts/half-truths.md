@@ -34,6 +34,13 @@ draft: false
   Twain would say: "Put all your eggs in the one basket and &mdash; WATCH
   THAT BASKET."[^3]
 
+# What does not kill me makes me stronger
+
+* What does not kill me makes me stronger[^4] &mdash; unless you inhale too
+  much coal dust and get black lung disease, or smoke too many cigarettes
+  and slowly waste away from cancer.
+
+
 
 [^1]: [ASS U ME]
 
@@ -41,3 +48,4 @@ draft: false
 
 [^3]: [_Pudd'nhead Wilson and Those Extraordinary Twins_, by Mark Twain - 1922](https://www.google.com/books/edition/Pudd_nhead_Wilson_and_Those_Extraordinar/SjDuAAAAMAAJ?hl=en&gbpv=1&bsq=put%20all%20your%20eggs)
 
+[^4]: [Wikipedia: What does not kill me makes me stronger](https://en.wikipedia.org/wiki/What_does_not_kill_me_makes_me_stronger)

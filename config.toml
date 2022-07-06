@@ -48,3 +48,4 @@ logo = "false"
 
 [markup.goldmark.renderer]
     unsafe= true
+
