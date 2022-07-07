@@ -38,9 +38,9 @@ logo = "false"
     weight = 3
   [[menu.main]]
     identifier = "church"
-    name = "Church.of.the.aotw"
+    name = "WootCatChurch"
     title = "Church"
-    url = "http://church.of.the.asopposedtowhat.com"
+    url = "https://wootcatchurch.com"
     weight = 4
 
 # https://stackoverflow.com/questions/63198652/hugo-shortcode-ignored-saying-raw-html-omitted
