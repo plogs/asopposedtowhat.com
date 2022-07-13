@@ -217,11 +217,14 @@ reality and stop lying to yourself. 90% of small businesses fail
 within the first year. You are not a writer, you are a statistic.
 
 In closing, we should all admit that advice like this is easy to give
-but difficult to follow.  Few will do it.
+but difficult to follow.  Few will do so.
 
 Long story short: _writing is work_. You must learn the craft, figure
 out a process that works for you, and then do it.
 
+And if you find that what you're doing doesn't seem to be working,
+then you're either not working hard enough, or noone is really
+interested in what you have to say anyway. Such is life.
 
 [^1]: "Nobody Wants to Read Your Sh*t: And Other Tough-Love Truths to
 Make You a Better Writer", by Steven Pressfield
