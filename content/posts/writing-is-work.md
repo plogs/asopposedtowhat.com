@@ -1,10 +1,10 @@
 ---
-title: "Book Writing Process"
+title: "Writing Is Work"
 date: 2022-03-24T06:41:42-07:00
 draft: false
 ---
 
-## What is your process for writing a book, etc.?
+## What is your writing process?
 
 The first thing is, you've got something to say. It starts with an
 idea you want to express, or a question you want to answer.
@@ -126,7 +126,7 @@ Likewise there is a time for syntax and word selection (the varnish
 and polish), and a time for figuring out your story's structure (the
 design of it).
 
-## Beginning, Middle, and End
+## The principles of (good, successful) storytelling
 
 There are numerous books that talk about the need for a beginning, middle,
 and end. The inciting incident, a theme, a concept, and so on.
@@ -157,8 +157,8 @@ spin, twist or framing device upon the material.
    the hero and the villain that pays off everything that came before
    and that pays it off on-theme.
 
-That's the craft of your writing, of story telling. You must learn
-your craft. Almost any craft will do, so long as you do it. Some
+That's the craft of writing, of storytelling. You must learn your
+craft. Almost any craft will do, so long as you do it. Some
 techniques (like the principles mentioned above) are known to work
 well.
 
