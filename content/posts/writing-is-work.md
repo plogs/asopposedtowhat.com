@@ -50,9 +50,12 @@ angels can dance on the head of a pin.
 
 You could be writing only for yourself, or writing an informal family
 history intended only for the grand-kids. In that case the success
-criteria is much lower, because only a few will ever read your work.
+criteria is much lower, because only a few will ever read what you
+write. And they'll read it even if it's not good, even if it's
+painful to read. Which is to say, they'll read it once -- because
+they feel obligated, because they have to.
 
-Nevertheless, understanding your intended audience is important in
+Regardless, understanding your intended audience is important in
 order to understand what arrangement of words will best focus your
 reader's attention.
 
@@ -126,7 +129,7 @@ Likewise there is a time for syntax and word selection (the varnish
 and polish), and a time for figuring out your story's structure (the
 design of it).
 
-## The principles of (good, successful) storytelling
+## The principles of (good, i.e., successful) storytelling
 
 There are numerous books that talk about the need for a beginning, middle,
 and end. The inciting incident, a theme, a concept, and so on.
@@ -216,8 +219,8 @@ within the first year. You are not a writer, you are a statistic.
 In closing, we should all admit that advice like this is easy to give
 but difficult to follow.  Few will do it.
 
-Long story short: _writing is work_. You must
-figure out a process that works for you, and then do it.
+Long story short: _writing is work_. You must learn the craft, figure
+out a process that works for you, and then do it.
 
 
 [^1]: "Nobody Wants to Read Your Sh*t: And Other Tough-Love Truths to
