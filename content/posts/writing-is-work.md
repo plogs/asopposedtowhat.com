@@ -129,22 +129,22 @@ Likewise there is a time for syntax and word selection (the varnish
 and polish), and a time for figuring out your story's structure (the
 design of it).
 
-## The principles of (good, i.e., successful) storytelling
+## The principles of good (i.e., successful) storytelling
 
-There are numerous books that talk about the need for a beginning, middle,
-and end. The inciting incident, a theme, a concept, and so on.
+There are many books on writing that talk about the need for a
+beginning, a middle, and an end; the need for an inciting incident, a
+theme, a concept, and so on.
 
-Here is a list of _universal principles_ of storytelling from 
-"Nobody Wants to Read Your Shit: And Other Tough-Love Truths to Make You a Better Writer"[^1]:
-
+In his book, "Nobody Wants to Read Your Sh*t: 
+Why That Is And What You Can Do About It"[^1], Steven Pressfield lays
+out his principles of storytelling:
 
 1. Every story must have a concept. It must put a unique and original
 spin, twist or framing device upon the material.
 
 2. Every story must be about something. It must have a theme.
 
-3. Every story must have a beginning, middle, and an end. Act One,
-   Act Two, Act Three.
+3. Every story must have a beginning, a middle, and an end.
 
 4. Every story must have a hero.
 
@@ -161,7 +161,7 @@ spin, twist or framing device upon the material.
    and that pays it off on-theme.
 
 That's the craft of writing, of storytelling. You must learn your
-craft. Almost any craft will do, so long as you do it. Some
+craft. Almost any technique will do, so long as you do it. Some
 techniques (like the principles mentioned above) are known to work
 well.
 
@@ -222,9 +222,6 @@ but difficult to follow.  Few will do so.
 Long story short: _writing is work_. You must learn the craft, figure
 out a process that works for you, and then do it.
 
-And if you find that what you're doing doesn't seem to be working,
-then you're either not working hard enough, or noone is really
-interested in what you have to say anyway. Such is life.
-
 [^1]: "Nobody Wants to Read Your Sh*t: And Other Tough-Love Truths to
 Make You a Better Writer", by Steven Pressfield
+
