@@ -17,24 +17,29 @@ Most people agree that adults have the right to transform themselves
 in a way that makes their life better. And why not? More
 power to them.
 
-But sadly, the
+But sadly the
 [postmodernist](https://en.wikipedia.org/wiki/Postmodernism) thinking
-that's often whipped out to justify the new world order is seen by
-many to have gone too far. How far?
+that's used to justify this seemingly new world order is seen by many
+to have gone too far. How far?
 
-Reality, it seems -- as we used to know it in the pre-woke days -- is not
-real. The idea that there's an objective reality independent of human
-beings is dismissed by postmodernists as a kind of naive realism.[^1]
-Naive as in "showing a lack of experience, wisdom, or judgment."
+So far that reality as we used to know it in the pre-woke
+days is no longer real. Yes that's right, no longer real. The idea
+that there's an objective reality independent of human beings is
+dismissed by postmodernists as a kind of naive realism.[^1] Naive as
+in "simple minded." Naive as in "lacking in worldly wisdom." Naive as
+in "un-woke."
 
-So what _is_ real? Well... nothing; except whatever you feel is real.
-You know, your [lived
-experience](https://en.wikipedia.org/wiki/Lived_experience). It's not
-about the facts, man, it's about you understanding the meaning of your
-experiences. It's all socially constructed.
+So what _is_ real, you might ask? Apparently nothing is really real
+except what you feel is real. You know, your [lived
+experience](https://en.wikipedia.org/wiki/Lived_experience), man.
+It's not about the facts, it's about you understanding the meaning of
+your experiences. It's all socially constructed.
 
-Okay. So I, too, threw my hat into the
-transformation ring.
+
+Really, I thought? Interesting. So then I wondered what would happen
+if I threw _my_ hat into the _it's all socially constructed_ ring.
+
+Turns out I'm transgentry.
 
 All my life I've felt like I was something different, maybe even
 something special. When I look in the mirror, I see a worker, a
@@ -52,11 +57,11 @@ our respective social classes, but I do, and I wish them well.
 ## Gentry dysphoria
 
 But I don't need to flaunt my greatness. I am what I am regardless of
-what society thinks about me. So why mention my
+what society thinks about me. So why reveal my
 _[gentry](https://en.wikipedia.org/wiki/Gentry) dysphoria_ now, after
 years of living like a peasant and making do?
 
-The answer is simple: pronouns.
+The answer is simple: newfound pronouns.
 
 In these socially malleable times one may now demand that a pronoun
 serves at the pleasure of a given participant. In truth, failure to
@@ -94,12 +99,12 @@ And there are many more ([What are the 78 Gender
 pronouns?](https://bobcutmag.com/2021/09/07/what-are-the-78-gender-pronouns/)).
 Language, as you know, evolves.
 
-However, demands to use certain words by the language police (or by
-anyone else for that matter) are of course bad form and extremely
-annoying.
+The problem is that demands to use certain words by the language
+police (or by anyone else for that matter) are of course bad form and
+extremely annoying.
 
-Nevertheless, people sometimes cloyingly insist on the use of their
-new and improved personal pronouns. Here are mine.
+Nevertheless, some people still cloyingly insist on the use of their
+new and improved personal pronouns. When that happens, here are mine.
 
 
 ## My preferred gentry pronouns (PGP)
