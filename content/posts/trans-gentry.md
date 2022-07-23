@@ -1,5 +1,5 @@
 ---
-title: "On coming out TransGentry"
+title: "On coming out TransGentry and Newfound Pronouns"
 date: 2022-02-26T11:35:20-08:00
 draft: false
 ---
