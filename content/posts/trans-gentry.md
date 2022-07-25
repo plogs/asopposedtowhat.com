@@ -1,5 +1,5 @@
 ---
-title: "On coming out TransGentry and Newfound Pronouns"
+title: "My TransGentry Newfound Pronouns"
 date: 2022-02-26T11:35:20-08:00
 draft: false
 ---
@@ -36,8 +36,9 @@ It's not about the facts, it's about you understanding the meaning of
 your experiences. It's all socially constructed.
 
 
-Really, I thought? Interesting. So then I wondered what would happen
-if I threw _my_ hat into the _it's all socially constructed_ ring.
+Really? I wondered. It's all socially constructed? What happens,
+then, if I throw _my_ hat into the _it's all socially constructed_
+ring.
 
 Turns out I'm transgentry.
 
