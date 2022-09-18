@@ -34,14 +34,14 @@ draft: true
 
 "Preferred" personal pronouns?
 
-No, You get to choose your name, not your pronouns. Why? Because I
-"identity as" (and actually am) a person whose "lived experience"
-says that one should be the master of their own thoughts and speach;
-therefore insisting, either implicitly or explicitly, that I use
-someone else's words is not only an egotistically rude request to me
-as a person worthy of respect, but also dangerously "harmful" to my
-well-being as a legitimate person (because it offends me deeply and
-makes me feel bad inside).
+No, you get to choose your name, not your pronouns. I "identity as"
+(and actually am) a person whose "lived experience" says one should
+be the master of their own thoughts and speech; therefore when
+someone insists, either implicitly or explicitly, that I use their
+words and not mine, their request is not merely egotistically rude
+and offensive to me as a person, but also painful and causes me
+"harm" (because it makes me feel bad, as if I'm no longer in a "safe
+space").
 
 
 [^1]: _writing/books/ideas/standardsofthought/everythingiswhatitis.odt
