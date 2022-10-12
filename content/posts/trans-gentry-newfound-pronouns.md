@@ -26,19 +26,18 @@ So far that reality as we used to know it in the pre-woke
 days is no longer real. Yes that's right, no longer real. The idea
 that there's an objective reality independent of human beings is
 dismissed by postmodernists as a kind of naive realism.[^1] Naive as
-in "simple minded." Naive as in "lacking in worldly wisdom." Naive as
-in "un-woke."
+in "simple minded." Naive as in "un-woke."
 
 So what _is_ real, you might ask? Apparently nothing is really real
 except what you feel is real. You know, your [lived
-experience](https://en.wikipedia.org/wiki/Lived_experience), man.
-It's not about the facts, it's about you understanding the meaning of
-your experiences. It's all socially constructed.
+experience](https://en.wikipedia.org/wiki/Lived_experience),[^2] man.
+It's not about the facts, it's about you making sense of your
+experiences. It's all socially constructed.
 
+## It's all socially constructed
 
-Really? I wondered. It's all socially constructed? What happens,
-then, if I throw _my_ hat into the _it's all socially constructed_
-ring.
+Really? I wondered. It's all socially constructed? So what happens
+when I throw _my_ hat into the _it's all socially constructed_ ring.
 
 Turns out I'm transgentry.
 
@@ -65,8 +64,8 @@ years of living like a peasant and making do?
 The answer is simple: newfound pronouns.
 
 In these socially malleable times one may now demand that a pronoun
-serves at the pleasure of a given participant. In truth, failure to
-do so may even be considered _oppressive_.[^2]
+serve at the pleasure of a given participant. In truth, failure to do
+so may even be considered _oppressive_.[^3]
 
 ## Pronouns
 
@@ -98,7 +97,7 @@ Now we have 'gender neutral' and 'gender inclusive' pronouns, such as:
 
 And there are many more ([What are the 78 Gender
 pronouns?](https://bobcutmag.com/2021/09/07/what-are-the-78-gender-pronouns/)).
-Language, as you know, evolves.
+Language, as you know, evolves.[^4]
 
 The problem is that demands to use certain words by the language
 police (or by anyone else for that matter) are of course bad form and
@@ -108,7 +107,7 @@ Nevertheless, some people still cloyingly insist on the use of their
 new and improved personal pronouns. When that happens, here are mine.
 
 
-## My preferred gentry pronouns (PGP)
+## Preferred gentry pronoun (PGP)
 
 
 Whilst in my presence you may call me _YourHighness_ or _YourMajesty_.
@@ -124,9 +123,18 @@ We have spoken.
 https://www.britannica.com/topic/postmodernism-philosophy
 
 
-[^2]: Failing to respect someone else's identity preferences "is not
+[^2]: aka https://en.wikipedia.org/wiki/Anecdotal_evidence
+
+[^3]: Failing to respect someone else's identity preferences "is not
 only disrespectful and hurtful, but also oppressive," says The University of
 Wisconsin, Milwaukee. Indeed, "When someone is referred to with the
 wrong pronoun, it can make them feel disrespected, invalidated,
 dismissed, alienated, or [gentry] dysphoric."
 https://uwm.edu/lgbtrc/support/gender-pronouns/
+
+[^4]: Believe it or not, some even suggest that the use of _they_ as a
+pronoun is now also unsuitable. Why? Because _they/them_ pronouns are
+(wait for it...) gender-neutral, and "not all nonbinary people occupy
+a space where they feel comfortable using 'they' pronouns".
+https://www.them.us/story/coming-out-they-them-pronouns
+

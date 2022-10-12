@@ -16,3 +16,11 @@ pronoun dysphoria.
 So please respect my point-of-view and refrain from inflicting harm
 on me by insisting or even implying that I should act in a way
 counter to my innermost sense of self.
+
+
+
+
+
+
+# pronoun-dysphoria .org
+
