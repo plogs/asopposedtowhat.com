@@ -18,6 +18,10 @@ theme = "paper"
 copyright = "Copyright {year} Steve Isaacson"
 logo = "false"
 
+[params]
+  # color style
+  color = 'gray'                 # linen, wheat, gray, light
+
 [menu]
   [[menu.main]]
     identifier = "home"
