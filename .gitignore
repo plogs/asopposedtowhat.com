@@ -1,2 +1,4 @@
 themes/tale
 public/
+*.lock
+.si

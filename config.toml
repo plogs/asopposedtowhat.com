@@ -10,8 +10,9 @@ title = "AsOpposedToWhat.com"
 googleAnalytics = 'G-B4P34ZJVFM'
 
 # theme = "newsroom"
-theme = "tale"
 # theme = "bootstrap"
+### theme = "tale"
+theme = "paper"
 
 
 copyright = "Copyright {year} Steve Isaacson"

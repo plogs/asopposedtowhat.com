@@ -4,6 +4,14 @@ date: 2021-07-14T21:10:28-07:00
 draft: true
 ---
 
+
+# affirmative action
+
+Why do we have affirmative action for minorities, but not for gays
+and lesbians [and Jews, and Asians]?
+
+
+
 # education ideas
 
 * "Everything is what it is, and not something else." It's not
