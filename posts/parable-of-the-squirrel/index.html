@@ -25,7 +25,7 @@
 
 <html
   class="not-ready text-sm lg:text-base"
-  style="--bg: #faf6f1"
+  style="--bg: #fbfbfb"
   lang="en-us"
 >
   <head>
@@ -178,7 +178,7 @@ The man knows the squirrel is on the other side of the tree-trunk, but he can&rs
 
     
     const metaTheme = document.querySelector('meta[name="theme-color"]');
-    const lightBg = `"#faf6f1"`.replace(/"/g, '');
+    const lightBg = `"#fbfbfb"`.replace(/"/g, '');
     const setDark = (isDark) => {
       metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
