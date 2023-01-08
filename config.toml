@@ -20,7 +20,7 @@ logo = "false"
 
 [params]
   # color style
-  color = 'gray'                 # linen, wheat, gray, light
+  color = 'light'                 # linen, wheat, gray, light
 
 [menu]
   [[menu.main]]
