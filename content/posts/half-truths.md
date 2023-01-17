@@ -11,6 +11,17 @@ draft: false
   that statment, I assume you understand English; I assume that you
   can hear me, that you're listening, that you're not an asshat.
 
+# Don't fix it if it ain't broke
+
+* Don't fix it if it ain't broke &mdash; unless it's one of those
+  problems that if you fix it now it may save you a lot of extra work
+  later on. Because, as you know...
+
+# A stitch in time saves nine.
+
+* A stitch in time saves nine &mdash; but don't fix it if it ain't
+  broke.
+
 
 # Too many cooks
 

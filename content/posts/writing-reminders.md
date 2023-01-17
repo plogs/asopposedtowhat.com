@@ -1,5 +1,5 @@
 ---
-title: "Writing Reminders"
+title: "StoryGrid Writing Reminders"
 date: 2022-03-07T20:02:50-08:00
 draft: true
 ---
