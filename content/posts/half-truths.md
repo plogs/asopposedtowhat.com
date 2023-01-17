@@ -8,7 +8,7 @@ draft: false
 
 * When you assume you make an ass out of you and me.[^1]
   And yet, before it even makes sense to utter
-  that statment, I assume you understand English; I assume that you
+  that statement, I assume you understand English; I assume that you
   can hear me, that you're listening, that you're not an asshat.
 
 # Don't fix it if it ain't broke
