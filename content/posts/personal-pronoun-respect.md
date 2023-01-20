@@ -16,8 +16,8 @@ because I decided to speak differently (I think I speak just fine
 already, thank you very much), but because someone else's ideology
 tells me to speak differently, regardless of what I may think about
 that ideology. Indeed I'm compelled to speak differently if I wish to
-avoid being ostracized,
+avoid being ostracized.
 
-For anyone demanding this type of 'respect', here are some different
-words that I don't normally use, and I say this with all due respect:
-go fuck yourself.
+So, for anyone demanding this type of 'respect', here are some words
+that align with my worldview, and I say this with all due respect: go
+fuck yourself.
