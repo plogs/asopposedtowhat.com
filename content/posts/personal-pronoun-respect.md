@@ -18,5 +18,6 @@ tells me to speak differently, regardless of what I may think about
 that ideology. Indeed I'm compelled to speak differently if I wish to
 avoid being ostracized,
 
-Here are some different words that I don't normally use, and I say
-this with all due respect: go fuck yourself.
+For anyone demanding this type of 'respect', here are some different
+words that I don't normally use, and I say this with all due respect:
+go fuck yourself.
