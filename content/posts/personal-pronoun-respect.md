@@ -1,5 +1,5 @@
 ---
-title: "On Personal Pronoun 'Respect'"
+title: "On 'Respecting' Personal Pronouns"
 date: 2023-01-20T11:25:44-08:00
 draft: false
 ---
