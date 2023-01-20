@@ -19,5 +19,5 @@ that ideology. Indeed I'm compelled to speak differently if I wish to
 avoid being ostracized.
 
 So, for anyone demanding this type of 'respect', here are some words
-that align with my worldview, and I say this with all due respect: go
-fuck yourself.
+that align with _my_ worldview, and I say this with all due respect:
+go fuck yourself.
