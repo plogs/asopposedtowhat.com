@@ -21,8 +21,6 @@ avoid being ostracized.
 
 Respect is earned, not self-identified.
 
-So for anyone implying that all truly good people will of course
-'respect' their personal pronouns, here are some words that align
-with my ideology, and I say this with all due respect: go fuck
-yourself.
-
+So for anyone looking for this kind of 'respect', here's a word
+phrase I don't normally use, and I say it with all due respect: go
+fuck yourself.
