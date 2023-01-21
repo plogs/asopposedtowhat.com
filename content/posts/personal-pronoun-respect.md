@@ -12,12 +12,12 @@ for paying taxes for something I might disagree with). But
 differently.
 
 It changes the way I speak; it changes the words that I use. And not
-because I decided to speak differently (I think I speak just fine
-already, thank you very much), but because someone else's ideology
-tells me to speak differently, regardless of what I may think about
-that ideology. Indeed I'm compelled to speak differently if I wish to
+because I decided to speak differently (I think I speak just fine,
+thank you very much), but because someone else's ideology tells me to
+speak differently, regardless of what I may think about that
+ideology. Indeed I'm compelled to speak differently if I wish to
 avoid being ostracized.
 
-So, for anyone demanding this type of 'respect', here are some words
-that align with _my_ worldview, and I say this with all due respect:
-go fuck yourself.
+So, for anyone demanding this type of 'respect' for their ideology,
+here are some words that align with my ideology, and I say this with
+all due respect: go fuck yourself.
