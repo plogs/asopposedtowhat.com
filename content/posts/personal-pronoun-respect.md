@@ -19,8 +19,6 @@ speak differently, regardless of what I may think about that
 ideology. Indeed I'm compelled to speak differently if I wish to
 avoid being ostracized.
 
-Respect is earned, not self-identified.
-
 So for anyone looking for this kind of 'respect', here's a word
 phrase I don't normally use, and I say it with all due respect: go
 fuck yourself.
