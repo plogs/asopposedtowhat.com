@@ -6,9 +6,9 @@ draft: false
 
 
 If I'm asked, for example, to respect gay marriage (even if it's
-against my religious beliefs) or to be kind and pay for curb cuts for
-the handicapped, those requests don't require me to change my
-behaviour (except for paying taxes for something I might disagree
+against my religious beliefs) or to be kind and pay for sidewalk curb
+cuts for the handicapped, those requests don't require me to change
+my behaviour (except for paying taxes for something I might disagree
 with). But asking me to 'respect' your personal pronouns does require
 me to act differently.
 
@@ -20,13 +20,10 @@ ideology. Indeed I'm compelled to speak differently if I wish to
 avoid being ostracized.
 
 'Respect' then -- in this case -- is merely a social nicety layered
-on top of a shit sandwich. It really means that one is expected to
+on top of a shit sandwich. It really means I'm expected to
 comply with another's worldview, like it or not, no discussion
 necessary. That's not very nice.
 
-This sleight of hand deceit, intentional or not, makes it extra
-annoying.
-
-So for anyone looking for this kind of 'respect', here's a word
-phrase I don't normally use, and I say it with all due respect: go
-fuck yourself.
+So for those looking for this kind of 'respect', here's a word phrase
+I don't normally use, and I mean it with all due respect: go fuck
+yourself.
