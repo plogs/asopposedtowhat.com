@@ -22,8 +22,16 @@ differently if I don't want to be ostracized.
 'Respect' then -- in this case -- is really just a social nicety
 layered on top of a shit sandwich. It really means I'm supposed to
 agree with someone else's worldview, like it or not, no discussion
-necessary. That's not very nice.
+necessary. And "Thank you Sir, may I have another?"[^1]
 
-So you think I should respect your personal pronouns?
+"Why are you making such a big of a deal out of this? Times change.
+Language changes. It's like you're some kind of linguistic Luddite.
+Get with the times, man. Respect a person's personal pronouns. Why
+don't you just be _nice?_"
 
-I think you should go fuck yourself.
+[long pause]
+
+Why don't you go fuck yourself?
+
+
+[^1]: History of the phrase "Thank you sir, may I have another" http://answers.google.com/answers/threadview?id=351627
