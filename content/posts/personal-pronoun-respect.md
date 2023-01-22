@@ -16,14 +16,14 @@ It changes the way I speak; it changes the words that I use. And not
 because I decided to speak differently (I think I speak just fine,
 thank you very much), but because someone else's ideology tells me to
 speak differently, regardless of what I might think about that
-ideology. Indeed I'm compelled to speak differently if I wish to
-avoid being ostracized.
+ideology. Indeed in some situations I'm compelled to speak
+differently if I don't want to be ostracized.
 
-'Respect' then -- in this case -- is merely a social nicety layered
-on top of a shit sandwich. It really means I'm expected to
-comply with another's worldview, like it or not, no discussion
+'Respect' then -- in this case -- is really just a social nicety
+layered on top of a shit sandwich. It really means I'm supposed to
+agree with someone else's worldview, like it or not, no discussion
 necessary. That's not very nice.
 
-So for those looking for this kind of 'respect', here's a word phrase
-I don't normally use, and I mean it with all due respect: go fuck
-yourself.
+So you think I should respect your personal pronouns?
+
+I think you should go fuck yourself.
