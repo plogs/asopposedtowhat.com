@@ -20,8 +20,8 @@ ideology. Indeed in some situations I'm compelled to speak
 differently if I don't want to be ostracized.
 
 'Respect' then -- in this case -- is really just a social nicety
-lathered on top of a shit sandwich. It means I'm supposed to agree
-with someone else's worldview, like it or not, no discussion
+layered on top of a shit sandwich. It means I'm supposed to agree
+with someone else's worldview, like it or not and no discussion
 necessary, and then change what I say. "Thank you Sir, may I have
 another?"[^1]
 
