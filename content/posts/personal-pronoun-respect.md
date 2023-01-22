@@ -20,14 +20,16 @@ ideology. Indeed in some situations I'm compelled to speak
 differently if I don't want to be ostracized.
 
 'Respect' then -- in this case -- is really just a social nicety
-layered on top of a shit sandwich. It really means I'm supposed to
-agree with someone else's worldview, like it or not, no discussion
-necessary. And "Thank you Sir, may I have another?"[^1]
+lathered on top of a shit sandwich. It means I'm supposed to agree
+with someone else's worldview, like it or not, no discussion
+necessary, and then change what I say. "Thank you Sir, may I have
+another?"[^1]
 
 "Why are you making such a big of a deal out of this? Times change.
 Language changes. It's like you're some kind of linguistic Luddite.
-Get with the times, man. Respect a person's personal pronouns. Why
-don't you just be _nice?_"
+Get with the times, man. It's really not that hard to use a person's
+personal pronouns. You'll get used to it. Why don't you just be
+_nice?_"
 
 [long pause]
 
