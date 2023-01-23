@@ -33,4 +33,4 @@ nice?_"
 
 [long pause]
 
-Why don't you just go _fuck yourself_?
+Why don't you just _go fuck yourself_?
