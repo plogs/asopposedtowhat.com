@@ -25,7 +25,7 @@ with someone else's worldview, like it or not, no discussion
 necessary, and then change what I say. So it's not really respect
 that's being asked for, what's being asked for is compliance.
 
-"Why are you making such a big deal out of this? Language changes.
+"Why are you making such a big deal about this? Language changes.
 It's like you're some kind of linguistic Luddite. Get with the times,
 man. It's really not that hard to use a person's personal pronouns.
 You'll get used to it. Why don't you just _be nice?_"
