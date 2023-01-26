@@ -6,7 +6,7 @@ draft: false
 
 
 If I'm asked, for example, to respect gay marriage (even if it's
-against my religious beliefs) or to be kind and pay for sidewalk curb
+against my religious views) or to be kind and pay for sidewalk curb
 cuts for the handicapped, those requests don't require me to change
 my behaviour (except for paying taxes for something I might disagree
 with). But asking me to 'respect' your personal pronouns does require
