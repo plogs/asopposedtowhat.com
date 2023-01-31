@@ -32,4 +32,4 @@ You'll get used to it. Why don't you just _be nice?_"
 
 [long pause]
 
-Why don't you just _go fuck yourself_?
+Why don't you just go fuck yourself?
