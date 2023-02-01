@@ -38,7 +38,7 @@ It means one group, for whatever reason (a complicated tax return, for
 example), appears to get more than they 'deserve'.
 
 What baselines do we begin with in basketball to determine
-disproportionality? The United States, by population, is of 6% Asian and
+disproportionality? The United States, by population, is 6% Asian and
 13% Black. In a fair world we expect to see similar proportions of the
 population represented throughout society (maybe not exactly the same
 proportions, but certainly not wildly out of whack proportions). And
@@ -75,7 +75,6 @@ Would that make the games more interesting? Maybe. I'm sure those
 elevator shows would be a trip. The point is, it would make the
 world more fair by reducing or eliminating Black/Asian basketball
 disproportionality. And many of us assume that to be a good thing.
-_Sauron's Lidless Eye_ reveals all.
 
 One small step for an Asian man, one giant equity leap for humankind.
 
