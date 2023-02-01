@@ -63,9 +63,9 @@ How do we fix the wrong? How do we stamp out the injustice? How do we
 paper over nasty reverberations from the past and renovate our world
 today?
 
-One solution is to change the rules of basketball and give Asians five
-points per basket instead of the usual two. This would likely encourage
-the NBA to employ more Asians.
+One solution is to change the rules of basketball and give Asians
+five points per basket instead of the usual two. This would likely
+encourage NBA team owners to employ more Asians.
 
 Another solution is to allow Asians to wear elevator shoes during the
 game to bring them closer to the hoop, to make it easier to score, to
