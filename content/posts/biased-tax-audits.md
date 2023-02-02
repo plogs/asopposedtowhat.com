@@ -13,13 +13,13 @@ return.[^1]
 How can anyone, let alone a computer, be biased if there's nothing to be
 biased about?
 
-One explanation is that the algorithm was primarily designed to analyze
-easy-to-process tax returns. For example, a return that did not include
-business income. So if you don't have business income on your return,
-you're more likely to get audited. This would be true regardless of
-race, obviously, but since a disproportionately large number of Blacks
-do not include business income on their returns, their returns are
-'biased' and so more likely to be audited.
+One explanation is that the algorithms were primarily designed to
+analyze easy-to-process tax returns. For example, returns that do
+not include business income. So if you don't have business income on
+your return, you're more likely to get audited. This would be true
+regardless of race, obviously, but since a disproportionately large
+number of Blacks do not include business income on their returns,
+their returns are 'biased' and so more likely to be audited.
 
 So bias doesn't have to be conscious (no human auditors were
 involved) or intentional (no racial identifiers on tax returns), but
@@ -62,10 +62,10 @@ unjust. If you just look at the numbers, that's obviously the case;
 you can see that it's wrong.
 
 How do we fix the wrong? How do we stamp out the injustice? How do we
-paper over the nasty reverberations from society's past mistakes and
+paper over the nasty reverberations from society's past and
 renovate our world today?
 
-One solution is to change the rules of basketball and give Asians
+One solution is to change the rules of basketball and give Asians 
 five points per basket instead of the usual two. This would likely
 encourage NBA team owners to employ more Asians.
 
