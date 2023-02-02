@@ -5,45 +5,46 @@ draft: false
 ---
 
 
-Computer algorithms used by the Internal Revenue Service are apparently
-biased against Blacks, according to a detailed analysis done by
-experts, even though no racial information is contained in a taxpayers
+A team of economic experts recently concluded that computer
+algorithms used by the Internal Revenue Service are biased against
+Blacks, even though no racial information is contained in a tax
 return.[^1]
 
 How can anyone, let alone a computer, be biased if there's nothing to be
 biased about?
 
-One explanation is that the algorithm was only really able to process
-easy-to-process returns. For example, a return that did not include
+One explanation is that the algorithm was primarily designed to analyze
+easy-to-process tax returns. For example, a return that did not include
 business income. So if you don't have business income on your return,
 you're more likely to get audited. This would be true regardless of
 race, obviously, but since a disproportionately large number of Blacks
 do not include business income on their returns, their returns are
-'biased' against and so are more like to be audited.
+'biased' and so more likely to be audited.
 
-So bias doesn't have to be conscious (no IRS human auditors were
-involved) or intentional (no racial identifiers on the taxpayers
-returns), and yet magic happens when we look at the numbers in detail.
+So bias doesn't have to be conscious (no human auditors were
+involved) or intentional (no racial identifiers on tax returns), but
+when we look at the numbers in detail we see that bias happens.
 
-If we turn the expert's _Eye of Sauron_ analysis away from the IRS for
-a moment and shine it on another court, the Eye's lidless gaze reveals
-even more bias.
+If we turn the economic expert's _Eye of Sauron_ analysis away from
+the IRS for a moment and shine it on another court, the gaze of the _Lidless
+Eye_ reveals even more bias.
 
 For example, during basketball session it's clear Blacks are
-disproportionally favored over Asians on the basketball court, even
+disproportionately favored over Asians on the basketball court, even
 though there is nothing to be gained by being biased. What does it mean
-to be disproportionally favored?
+to be disproportionately favored?
 
 It means one group, for whatever reason (a complicated tax return, for
 example), appears to get more than they 'deserve'.
 
-What baselines do we begin with in basketball to determine
-disproportionality? The United States, by population, is 6% Asian and
-13% Black. In a fair world we expect to see similar proportions of the
-population represented throughout society (maybe not exactly the same
+What numbers do we use in basketball to determine disproportionality?
+The United States, by population, is 6% Asian and 13% Black. In a
+fair world we expect to see similar proportions of the population
+represented throughout society (maybe not exactly the same
 proportions, but certainly not wildly out of whack proportions). And
-yet, incredibly, when we look at the percentage of players by race in
-the NBA, 1% are Asian and 73% are Black.
+yet, incredibly, when we look at the percentage of players by race
+participating in the National Basketball Association, we find that 1%
+are Asian and 73% are Black.
 
 That's a glaring disproportionality if ever there was one. Obviously
 Blacks are being favored whether they realize it or not.
@@ -51,17 +52,18 @@ Blacks are being favored whether they realize it or not.
 (Note: There is also Asian/White disproportionality. Not all Asian
 suppression can be attributed to Black privilege.)
 
-Did slavery and Jim Crow and systemic racism somehow give Black players
-_basketball super powers_? Maybe, that's one explanation, but truth be
-told, we don't actually know.
+Did a history of slavery and Jim Crow and systemic racism somehow
+give Black players _basketball super powers_? Maybe, that's one
+explanation, but truth be told, we don't actually know.
 
-But we don't have to know. Because we can see. And this glaring
+And maybe we don't need to know. Because we can see. And the glaring
 disproportionality strikes many as racist and unfair and socially
-unjust. If you just look at the numbers, you can see that it's wrong.
+unjust. If you just look at the numbers, that's obviously the case;
+you can see that it's wrong.
 
 How do we fix the wrong? How do we stamp out the injustice? How do we
-paper over nasty reverberations from the past and renovate our world
-today?
+paper over the nasty reverberations from society's past mistakes and
+renovate our world today?
 
 One solution is to change the rules of basketball and give Asians
 five points per basket instead of the usual two. This would likely
@@ -71,15 +73,15 @@ Another solution is to allow Asians to wear elevator shoes during the
 game to bring them closer to the hoop, to make it easier to score, to
 even the playing field so-to-speak.
 
-Would that make the games more interesting? Maybe. I'm sure those
-elevator shows would be a trip. The point is, it would make the
-world more fair by reducing or eliminating Black/Asian basketball
-disproportionality. And many of us assume that to be a good thing.
+Would that make the basketball games more interesting? Maybe. I'm
+sure those elevator shoes would be a trip. The point is, it would
+make the world more fair by reducing or eliminating Black/Asian
+basketball disproportionality. And many of us assume that would be a
+very good thing.
 
-One small step for an Asian man, one giant equity leap for humankind.
+That's one small step for Asian men, one giant equity leap for mankind.
 
 
-[^1]: "Black Americans more likely to face tax audits," by Jim
-Tankersley, _The New York Times_, reprinted in _The Seattle Times_, Feb
-1, 2023
-
+[^1]: "Black Americans Are Much More Likely to Face Tax Audits, Study
+Finds" by Jim Tankersley,
+https://www.nytimes.com/2023/01/31/us/politics/black-americans-irs-tax-audits.html
