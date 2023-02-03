@@ -59,7 +59,7 @@ explanation, but truth be told, we don't actually know.
 And even if we don't know, glaring disproportionalities like these strike
 many as racist and unfair and socially unjust. If you just look at
 the numbers, the meaning is clear; you can see that it's wrong.
-Why waste time searching for explanations when numbers don't lie?
+Why waste time searching for explanations when we know numbers don't lie.
 
 How do we fix the wrong and stamp out the injustice? How do we paper
 over the nasty reverberations from society's past and renovate our world
@@ -74,12 +74,13 @@ game to bring them closer to the hoop, to make it easier to score, to
 even the playing field so-to-speak. One small step for Asian men, one
 giant equity leap for mankind.
 
-Would that make basketball games more interesting? Maybe. I'm sure those
-elevator shoes would be a trip. But the point is, eliminating racial
-disproportionalities wherever we find them -- whether it's tax returns
-at the IRS or employment discrimination at the NBA -- is seen by many to
+Would that make basketball games more interesting? Maybe. I'm sure
+those elevator shoes would be a trip. But the point is, eliminating
+racial disproportionalities wherever we find them is seen by many to
 be a good thing.
 
+Whether it's tax returns at the IRS or employment at the NBA, the
+_Eye of Sauron_ sees all.
 
 [^1]: "Black Americans Are Much More Likely to Face Tax Audits, Study
 Finds" by Jim Tankersley,
