@@ -56,30 +56,29 @@ Did a history of slavery and Jim Crow and systemic racism somehow
 give Black players _basketball super powers_? Maybe, that's one
 explanation, but truth be told, we don't actually know.
 
-And maybe we don't need to know. Because we can see. And the glaring
-disproportionality strikes many as racist and unfair and socially
-unjust. If you just look at the numbers, that's obviously the case;
-you can see that it's wrong.
+And even if we don't know, glaring disproportionalities like these strike
+many as racist and unfair and socially unjust. If you just look at
+the numbers, the meaning is clear; you can see that it's wrong.
+Why waste time searching for explanations when numbers don't lie?
 
-How do we fix the wrong? How do we stamp out the injustice? How do we
-paper over the nasty reverberations from society's past and
-renovate our world today?
+How do we fix the wrong and stamp out the injustice? How do we paper
+over the nasty reverberations from society's past and renovate our world
+today?
 
-One solution is to change the rules of basketball and give Asians 
-five points per basket instead of the usual two. This would likely
+One solution is to change the rules of basketball and give Asians five
+points per basket instead of the usual two. Doing so would likely
 encourage NBA team owners to employ more Asians.
 
 Another solution is to allow Asians to wear elevator shoes during the
 game to bring them closer to the hoop, to make it easier to score, to
-even the playing field so-to-speak.
+even the playing field so-to-speak. One small step for Asian men, one
+giant equity leap for mankind.
 
-Would that make the basketball games more interesting? Maybe. I'm
-sure those elevator shoes would be a trip. The point is, it would
-make the world more fair by reducing or eliminating Black/Asian
-basketball disproportionality. And many of us assume that would be a
-very good thing.
-
-That's one small step for Asian men, one giant equity leap for mankind.
+Would that make basketball games more interesting? Maybe. I'm sure those
+elevator shoes would be a trip. But the point is, eliminating racial
+disproportionalities wherever we find them -- whether it's tax returns
+at the IRS or employment discrimination at the NBA -- is seen by many to
+be a good thing.
 
 
 [^1]: "Black Americans Are Much More Likely to Face Tax Audits, Study
