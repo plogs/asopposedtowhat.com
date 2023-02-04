@@ -28,7 +28,8 @@ their returns are 'biased' and so more likely to be audited.
 
 So bias doesn't have to be conscious (no human auditors were
 involved) or intentional (no racial identifiers on tax returns), but
-when we look at the numbers in detail we see that bias happens.
+when we look at the numbers in detail we see that bias happens, say
+the experts.
 
 If we turn the economic expert's _Eye of Sauron_ analysis away from
 the IRS for a moment and shine it on another court, the gaze of the _Lidless
