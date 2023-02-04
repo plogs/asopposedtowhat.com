@@ -31,9 +31,9 @@ involved) or intentional (no racial identifiers on tax returns), but
 when we look at the numbers in detail we see that bias happens, say
 the experts.
 
-If we turn the economic expert's _Eye of Sauron_ analysis away from
-the IRS for a moment and shine it on another court, the gaze of the _Lidless
-Eye_ reveals even more bias.
+If we turn the expert's _Eye of Sauron_ away from the IRS for a
+moment and shine it on another court, the amazing gaze of the
+_Lidless Eye_ reveals even more bias.
 
 For example, during basketball session it's clear Blacks are
 disproportionately favored over Asians on the basketball court, even
