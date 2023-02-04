@@ -31,7 +31,7 @@ involved) or intentional (no racial identifiers on tax returns), but
 when we look at the numbers in detail we see that bias happens, say
 the experts.
 
-If we turn the auditing _Eye of Sauron_ away from the IRS for a
+If we turn the _auditing Eye of Sauron_ away from the IRS for a
 moment and shine it on another court, the amazing gaze of the
 _Lidless Eye_ reveals even more bias.
 
@@ -65,7 +65,6 @@ explanation, but truth be told, we don't actually know.
 And even if we don't know, glaring disproportionalities like these strike
 many as racist and unfair and socially unjust. If you just look at
 the numbers, the meaning is clear; you can see that it's wrong.
-Why waste time searching for explanations when we know numbers don't lie.
 
 How do we fix the wrong and stamp out the injustice? How do we paper
 over the nasty reverberations from society's past and renovate our world
