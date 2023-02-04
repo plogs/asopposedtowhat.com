@@ -4,6 +4,11 @@ date: 2023-02-01T12:08:41-08:00
 draft: false
 ---
 
+<center>
+
+![Flag of Mordor](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Mordor_SVG.svg/320px-Flag_of_Mordor_SVG.svg.png)
+
+</center>
 
 A team of economic experts recently concluded that computer
 algorithms used by the Internal Revenue Service are biased against
