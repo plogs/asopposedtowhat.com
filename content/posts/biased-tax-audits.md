@@ -1,5 +1,5 @@
 ---
-title: "The Eye of Sauron tax audits"
+title: "The auditing Eye of Sauron"
 date: 2023-02-01T12:08:41-08:00
 draft: false
 ---
@@ -10,10 +10,10 @@ draft: false
 
 </center>
 
-A team of economic experts recently concluded that computer
+A team of economic experts[^1] recently concluded that computer
 algorithms used by the Internal Revenue Service are biased against
 Blacks, even though no racial information is contained in a tax
-return.[^1]
+return.
 
 How can anyone, let alone a computer, be biased if there's nothing to be
 biased about?
@@ -31,7 +31,7 @@ involved) or intentional (no racial identifiers on tax returns), but
 when we look at the numbers in detail we see that bias happens, say
 the experts.
 
-If we turn the expert's _Eye of Sauron_ away from the IRS for a
+If we turn the auditing _Eye of Sauron_ away from the IRS for a
 moment and shine it on another court, the amazing gaze of the
 _Lidless Eye_ reveals even more bias.
 
@@ -80,14 +80,14 @@ game to bring them closer to the hoop, to make it easier to score, to
 even the playing field so-to-speak. One small step for Asian men, one
 giant equity leap for mankind.
 
-Would that make basketball games more interesting? Maybe. I'm sure
-those elevator shoes would be a trip. But the point is, eliminating
-racial disproportionalities wherever we find them is seen by many to
-be a good thing.
+Would that make basketball games more interesting? Maybe.
+I'm sure those elevator shoes would be a trip. But the point is,
+eliminating racial disproportionalities wherever we find them is seen
+by many to be a good thing.
 
-Whether it's tax returns at the IRS or employment at the NBA, the
-_Eye of Sauron_ sees all.
+Whether it's tax returns at the IRS or employment
+at the NBA, the _auditing Eye of Sauron_ sees all.
 
-[^1]: "Black Americans Are Much More Likely to Face Tax Audits, Study
-Finds" by Jim Tankersley,
+[^1]: "Black Americans Are Much More Likely to Face Tax Audits,
+       Study Finds," by Jim Tankersley,
 https://www.nytimes.com/2023/01/31/us/politics/black-americans-irs-tax-audits.html
