@@ -4,6 +4,9 @@ html, body {
 
 body {
     padding-top: 55px;
+    padding-left: .5em;
+    padding-right: .5em;
+
     display: flex;
     text-align: left;
     flex-direction: column;
