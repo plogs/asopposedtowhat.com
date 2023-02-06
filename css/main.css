@@ -5,13 +5,13 @@ html, body {
 body {
     padding-top: 55px;
     display: flex;
-    text-align: center;
+    text-align: left;
     flex-direction: column;
 }
 
 main {
     margin: auto;
-    padding: 25px;
+    padding: .5em;
     flex: 1 0 auto;
     max-width: 750px;
 }
@@ -39,7 +39,7 @@ img {
 /* Page content */
 
 .content {
-    padding-top: 20px;
+    padding-top: .5em;
 }
 
 /* Profile picture */
