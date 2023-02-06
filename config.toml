@@ -1,26 +1,25 @@
-baseURL = "https://asopposedtowhat.com"
+# https://github.com/calintat/minimal
+
+baseURL = "https://asopposedtowhat.com/"
 languageCode = "en-us"
 title = "AsOpposedToWhat.com"
-
-# See themes/tale/layouts/partials/head.html
-# googleAnalytics = "UA-88355709-2"
-
-# https://gohugo.io/templates/internal/
-
-googleAnalytics = 'G-B4P34ZJVFM'
-
-# theme = "newsroom"
-# theme = "bootstrap"
-### theme = "tale"
-theme = "paper"
-
-
-copyright = "Copyright {year} Steve Isaacson"
-logo = "false"
+theme = "minimal"
+disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
 
 [params]
-  # color style
-  color = 'light'                 # linen, wheat, gray, light
+    author = "Calin Tataru"
+    description = "A collection of thought provoking and possibly entertaining essays."
+    githubUsername = "#"
+    accent = "purple"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Libre Baskerville" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+
 
 [menu]
   [[menu.main]]
@@ -53,4 +52,58 @@ logo = "false"
 
 [markup.goldmark.renderer]
     unsafe= true
+
+# 
+# 
+# 
+# 
+# [[menu.main]]
+#     url = "/"
+#     name = "Home"
+#     weight = 1
+# 
+# [[menu.main]]
+#     url = "/about/"
+#     name = "About"
+#     weight = 2
+# 
+# [[menu.main]]
+#     url = "/post/"
+#     name = "Posts"
+#     weight = 3
+# 
+# # [[menu.main]]
+# #     url = "/project/"
+# #     name = "Projects"
+# #     weight = 4
+# 
+# # Social icons to be shown on the right-hand side of the navigation bar.
+# # The "name" field should match the name of the icon in Font Awesome.
+# # The list of available icons can be found at http://fontawesome.io/icons.
+# 
+# [[menu.icon]]
+#     url = "mailto:stevei@asopposedtowhat.com"
+#     name = "fas fa-envelope"
+#     weight = 1
+# 
+# # [[menu.icon]]
+# #     url = "https://github.com/username/"
+# #     name = "fab fa-github"
+# #     weight = 2
+# # 
+# # [[menu.icon]]
+# #     url = "https://twitter.com/username/"
+# #     name = "fab fa-twitter"
+# #     weight = 3
+# # 
+# # [[menu.icon]]
+# #     url = "https://www.linkedin.com/in/username/"
+# #     name = "fab fa-linkedin"
+# #     weight = 4
+# # 
+# # [[menu.icon]]
+# #     url = "https://www.stackoverflow.com/username/"
+# #     name = "fab fa-stack-overflow"
+# #     weight = 5
+
 

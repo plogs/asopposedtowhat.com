@@ -19,6 +19,7 @@ tweet-length, short story, something
 # asopposedtowhat.com
 
   - 'joke' of the day
+  - garyv on linked in: Just talk about shit you like and know.
 
 
 

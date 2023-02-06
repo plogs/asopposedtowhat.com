@@ -41,3 +41,8 @@ edit config.toml
 ----------------------------------------------------------------------
 
 url = https://github.com/EmielH/tale-hugo.git
+
+
+
+----------------------------------------------------------------------
+ git submodule update --remote themes/minimal

@@ -4,18 +4,14 @@ date: 2020-01-01T19:14:39-07:00
 draft: false
 ---
 
-AsOpposedToWhat.com is a collection of essays meant to be thought
-provoking and entertaining.
+AsOpposedToWhat.com is a collection of thought provoking and possibly
+entertaining essays.
 
+Are you easily offended? If so, you might want to watch Steve Hughes on [Health and Safety](https://youtu.be/vbsHox73mRo?t=202)[^1]
 
-Questions or comments?
+    Questions or comments?
+    email stevei@asopposedtowhat.com
 
-    email: stevei@asopposedtowhat.com
-
-Easily Offended?
-
-
-See Steve Hughes on [Health and Safety](https://youtu.be/vbsHox73mRo?t=202)[^1]
 
 
 [^1]: Steve Hughes - "Health and Safety &amp; Offended Comedy Routines"
