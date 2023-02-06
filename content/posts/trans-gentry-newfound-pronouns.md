@@ -47,7 +47,11 @@ common man. But deep down inside I know there's more to me than
 what's shown in the mirror. Deep down inside of me I see a king. Yes,
 I'm a king born in a worker's body. I've felt this way all my life.
 
+<center>
+
 ![king with crown](/images/King_of_Persis_Ardashir_II_with_crown_1st_century_BCE.jpg)
+
+</center>
 
 And indeed my 'lived experience' tells me it must be so. For
 example, I truly enjoy it when people (of any class) wait on me and

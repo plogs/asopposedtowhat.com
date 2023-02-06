@@ -5,9 +5,14 @@ draft: false
 image: squirrel-on-tree.jpg
 ---
 
+
+#### (aka A ferocious metaphysical dispute[^1])
+
+<center>
+
 ![picture of covid](/images/squirrel-on-tree.jpg)
 
-## aka A ferocious metaphysical dispute[^1]
+</center>
 
 Some time ago, being with a camping party in the mountains, I
 returned from a solitary ramble to find everyone engaged in a

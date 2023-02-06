@@ -3,15 +3,17 @@ title: "Does my gerbil have a gender?"
 date: 2022-02-26T16:50:56-08:00
 draft: false
 ---
-
-![picture of gerbil](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gerbil_Awesomness.JPG/292px-Gerbil_Awesomness.JPG)
-
 The short answer is No.
 
 [Gerbils](https://en.wikipedia.org/wiki/Mongolian_gerbil) are animals
 that have a [sex](https://en.wikipedia.org/wiki/Sex), but not a
 gender.
 
+<center>
+
+![picture of gerbil](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gerbil_Awesomness.JPG/292px-Gerbil_Awesomness.JPG)
+
+</center>
 
 ## Sex
 
@@ -23,7 +25,11 @@ organism defines its sex. Commonly in plants and animals, male
 organisms produce smaller gametes (spermatozoa, sperm) while female
 organisms produce larger gametes (ova, often called egg cells)."[^1]
 
+<center>
+
 ![sperm and egg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Egg_and_Sperm.png/320px-Egg_and_Sperm.png)
+
+</center>
 
 ## Gametes
 
