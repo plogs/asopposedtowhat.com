@@ -5,7 +5,7 @@ languageCode = "en-us"
 title = "AsOpposedToWhat.com"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
+googleAnalytics = 'G-B4P34ZJVFM'
 
 [params]
     author = "Calin Tataru"
