@@ -1,5 +1,5 @@
 ---
-title: "The auditing Eye of Sauron"
+title: "The bias-detecting Eye of Sauron"
 date: 2023-02-01T12:08:41-08:00
 draft: false
 ---
