@@ -29,11 +29,11 @@ returns, their returns are 'biased' and so more likely to be audited.
 So bias -- in this sense -- doesn't have to be conscious (no human
 auditors were involved) or intentional (no racial identifiers on tax
 returns); but if we look at the numbers and review proportions,
-then we can see that bias happens.
+then we see that bias happens.
 
-And when we turn the bias-detecting Eye of Sauron away from
-the IRS for a moment and shine it on other courts, we 
-see a world rife with bias.
+What happens when we turn the bias-detecting Eye of Sauron away from
+the IRS and shine it on other courts? Amazingly, we see a world rife
+with bias.
 
 For example, during basketball season it's obvious that Blacks are
 disproportionately favored over Asians on the basketball court, even
@@ -54,10 +54,8 @@ percentage of players by race participating in the National
 Basketball Association, we find that 1% are Asian and 73% are Black.
 
 That's a glaring disproportionality if ever there was one. Obviously
-Blacks are being favored whether they realize it or not.
-
-(Note: There is also Asian/White disproportionality. Not all Asian
-suppression can be attributed to Black privilege.)
+Blacks are being favored whether they realize it or not. But why is
+that?
 
 Does a legacy of slavery and racism somehow give Black players an
 unearned advantage on the basketball court. Maybe, that's one
@@ -65,11 +63,9 @@ explanation, but truth be told, we don't actually know.
 
 And even if we don't know, i.e., _regardless_ of the reason, glaring
 disproportionalities like these strike many as unfair and socially
-unjust. It just seems wrong.
-
-How do we fix the wrong and stamp out the injustice? How do we paper
-over nasty reverberations from society's past and renovate our world
-today?
+unjust. How do we fix the wrong and stamp out the injustice? How do
+we paper over nasty reverberations from society's past and renovate
+our world today?
 
 One solution is to change the rules of basketball and give Asians five
 points per basket instead of the usual two. Doing so would likely
