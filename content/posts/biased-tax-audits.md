@@ -73,8 +73,8 @@ encourage NBA team owners to employ more Asians.
 
 Another solution is to allow Asians to wear elevator shoes during the
 game to bring them closer to the hoop, to make it easier to score, to
-even the playing field so-to-speak. One small step for Asian men, one
-giant equity leap for mankind.
+even the playing field so-to-speak. One small step up for Asian men,
+one giant equity leap for mankind.
 
 Would that make basketball games more interesting? Maybe. I'm sure
 those elevator shoes would be a trip. But the point is, eliminating
