@@ -71,10 +71,14 @@ One solution is to change the rules of basketball and give Asians five
 points per basket instead of the usual two. Doing so would likely
 encourage NBA team owners to employ more Asians.
 
-Another solution is to allow Asians to wear elevator shoes during the
+
+Another solution is to allow Asians to wear elevator stilt-shoes[^2] during the
 game to bring them closer to the hoop, to make it easier to score, to
-even the playing field so-to-speak. One small step up for Asian men,
-one giant equity leap for mankind.
+even the playing field so-to-speak.
+ One small equity stretch for Asian men,
+one giant structural bias solution for mankind.
+
+![picture of elevator stilt-shoes](/images/elevator-stilts.png)
 
 Would that make basketball games more interesting? Maybe. I'm sure
 those elevator shoes would be a trip. But the point is, eliminating
@@ -87,3 +91,5 @@ at the NBA, the bias-detecting Eye of Sauron sees all.
 [^1]: "Black Americans Are Much More Likely to Face Tax Audits,
        Study Finds," by Jim Tankersley,
 https://www.nytimes.com/2023/01/31/us/politics/black-americans-irs-tax-audits.html
+
+[^2]: Original [unmodified photo] photo from: https://www.globaltimes.cn/page/202301/1283763.shtml
