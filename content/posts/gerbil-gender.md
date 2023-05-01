@@ -1,10 +1,9 @@
 ---
 title: "Does my gerbil have a gender?"
-date: 2022-02-26T16:50:56-08:00
+date: 2023-02-26T16:50:56-08:00
 draft: false
 ---
-The short answer is No.
-
+The short answer is: No.
 [Gerbils](https://en.wikipedia.org/wiki/Mongolian_gerbil) are animals
 that have a [sex](https://en.wikipedia.org/wiki/Sex), but not a
 gender.
@@ -22,8 +21,8 @@ male or female, in animals and plants that propagate their species
 through sexual reproduction. The type of
 [gametes](https://en.wikipedia.org/wiki/Gamete) produced by an
 organism defines its sex. Commonly in plants and animals, male
-organisms produce smaller gametes (spermatozoa, sperm) while female
-organisms produce larger gametes (ova, often called egg cells)."[^1]
+organisms produce smaller gametes (sperm) while female
+organisms produce larger gametes (ova, or egg cells)."[^1]
 
 <center>
 
@@ -63,7 +62,33 @@ concept."[^3]
 
 Gerbil's do not have a gender. Their sex is male or female.
 
+## What about the sex spectrum?
+
+As described above, there are two sexes observable in the animal
+world. Males are the sex that have the reproductive anatomy designed
+to produce small gametes (or sperm), and females are the sex that
+have the reproductive anatomy designed to produce large gametes (or
+ova). This is true not just for humans, but for all mammals.
+
+There are, of course, intersex people who are born with ambiguous sex
+characteristics. But this does not imply a spectrum.
+
+A nickel has two sides: a head side and a tail side. But sometimes
+when you flip a nickel onto the table it will land on its edge. This
+happens roughly 1 out of every 6,000 flips of the coin. When that
+occurs we don't then conclude that the two sides of the coin are
+somehow on a spectrum. We just know that every now and then the
+outcome of the flip is ambiguous.[^4]
+
+We do keep track of three nominal sides -- heads, tails, and on edge
+-- when performing coin toss experiments. But there is no third sex
+(let alone a sex spectrum) observable in the animal world.
+
 
 [^1]: https://en.wikipedia.org/wiki/Sex
 [^2]: https://en.wikipedia.org/wiki/Hermaphrodite#cite_note-10
 [^3]: https://en.wikipedia.org/wiki/Gender#cite_note-117
+[^4]: https://www.youtube.com/watch?v=xykVUT6ciuI
+
+
+
