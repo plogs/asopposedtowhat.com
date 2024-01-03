@@ -18,6 +18,6 @@ developed an equally bizarre hankering for zucchinis.
 
 I remember once we walked into a Denny's restaurant and the waitress
 asked if I was happy to see her or if that was a cucumber in my
-pocket. No, it a zucchini, I said. Sneed nearly dropped his pumpkin.
+pocket. No, I said, it a zucchini. Sneed nearly dropped his pumpkin.
 
 The waitress was not amused.
