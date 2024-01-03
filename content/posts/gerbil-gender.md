@@ -71,14 +71,14 @@ have the reproductive anatomy designed to produce large gametes (or
 ova). This is true not just for humans, but for all mammals.
 
 There are, of course, intersex people who are born with ambiguous sex
-characteristics. But this does not imply a spectrum.
+characteristics. But this does not imply a spectrum[^4].
 
 A nickel has two sides: a head side and a tail side. But sometimes
 when you flip a nickel onto the table it will land on its edge. This
 happens roughly 1 out of every 6,000 flips of the coin. When that
 occurs we don't then conclude that the two sides of the coin are
 somehow on a spectrum. We just know that every now and then the
-outcome of the flip is ambiguous.[^4]
+outcome of the flip is ambiguous.[^5]
 
 We do keep track of three nominal sides -- heads, tails, and on edge
 -- when performing coin toss experiments. But there is no third sex
@@ -88,7 +88,8 @@ We do keep track of three nominal sides -- heads, tails, and on edge
 [^1]: https://en.wikipedia.org/wiki/Sex
 [^2]: https://en.wikipedia.org/wiki/Hermaphrodite#cite_note-10
 [^3]: https://en.wikipedia.org/wiki/Gender#cite_note-117
-[^4]: https://www.youtube.com/watch?v=xykVUT6ciuI
+[^4]: https://www.realityslaststand.com/p/sex-is-not-a-spectrum
+[^5]: https://www.youtube.com/watch?v=xykVUT6ciuI
 
 
 
