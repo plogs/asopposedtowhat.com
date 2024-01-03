@@ -30,6 +30,6 @@ It's like you're some kind of linguistic Luddite. Get with the times,
 man. It's really not that hard to use a person's personal pronouns.
 You'll get used to it. Why don't you just _be nice?_"
 
-[long pause]
+[long, thoughtful pause]
 
 Why don't you just go fuck yourself?
