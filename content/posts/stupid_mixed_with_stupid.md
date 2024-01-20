@@ -90,8 +90,9 @@ the people concerned about sex had recognized that this is one of
 those cases where it doesn't actually matter, then, again, we'd never
 have heard about it.
 
-Stupid mixed with stupid sometimes thrusts you into the national
-spotlight.
+But put the two together, and what do you get?
+
+You get stupid in a spotlight.
 
 
 [^1]: The Seattle Times, Friday January 19, 2024
