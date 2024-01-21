@@ -95,7 +95,8 @@ But put the two together, and what do you get?
 You get stupid in a spotlight.
 
 
-[^1]: The Seattle Times, Friday January 19, 2024
+[^1]: Friday January 19, 2024
+https://www.seattletimes.com/life/oklahoma-to-debut-after-trans-student-reinstated/
 
 [^2]: https://www.oscars.org/awards/representation-and-inclusion-standards
 
