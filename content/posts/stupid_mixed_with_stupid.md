@@ -49,7 +49,7 @@ Best Picture if the picture tells a good story _and_ reflects the
 diverse global population. So if you want to win Best Picture, add a
 token minority, even if the audience must then further suspend
 disbelief to overlook the forced casting. It's not clear if a movie
-made with an all-black cast or all-female cast or an all Pacific
+made with an all-black cast or an all-female cast or an all Pacific
 Islander cast is eligible for the award.
 
 Returning to the Texas High School play, it seems obvious that a
