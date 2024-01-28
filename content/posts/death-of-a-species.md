@@ -9,8 +9,8 @@ males left in the world were cisgender[^1] men, and the only females
 left in the world were transgender[^2] women? What would happen to
 the human species?
 
-What would happen is that our species would eventually die out.
-It would be the end of civilisation.
+What would happen is that our species would eventually die out. It
+would be the end of civilization.
 
 Our species would eventually die out because humans are animals that
 propagate via sexual reproduction, and transgender women, regardless
@@ -21,7 +21,7 @@ Human sexual reproduction requires the fusion of two types of
 gametes. Male gametes (sperm), and female gametes (eggs).[^3]
 
 In our well-intentioned desire to treat women and men equally, this
-distinction is sometimes lost.
+distinction is often lost.
 
 
 [^1]: https://en.wikipedia.org/wiki/Cisgender
