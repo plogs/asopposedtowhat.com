@@ -20,7 +20,7 @@ speaking, males.
 Human sexual reproduction requires the fusion of two types of
 gametes. Male gametes (sperm), and female gametes (eggs).[^3]
 
-In our well-intentioned desire to treat women and men equally, this
+In our well-intentioned attempts to treat women and men equally, this
 distinction is often lost.
 
 
