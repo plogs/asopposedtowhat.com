@@ -5,6 +5,7 @@ draft: false
 ---
 
 
+## When the Cure Is Worse Than the Disease
 
 Imagine for a moment that in the past, innocent people were unfairly
 given cancer. Imagine that it was bad and really unfair.
