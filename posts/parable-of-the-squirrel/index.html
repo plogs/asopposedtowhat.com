@@ -82,7 +82,7 @@ The man knows the squirrel is on the other side of the tree-trunk, but he can&rs
   <link rel="apple-touch-icon" href="https://asopposedtowhat.com/apple-touch-icon.png" />
 
   
-  <meta name="generator" content="Hugo 0.111.3">
+  <meta name="generator" content="Hugo 0.121.2">
 
   
   
@@ -91,7 +91,7 @@ The man knows the squirrel is on the other side of the tree-trunk, but he can&rs
   
   
   
-<script type="application/javascript">
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -125,6 +125,7 @@ The man knows the squirrel is on the other side of the tree-trunk, but he can&rs
 <meta property="article:published_time" content="2021-08-11T16:31:59-07:00" />
 <meta property="article:modified_time" content="2021-08-11T16:31:59-07:00" />
 
+
   
   <meta itemprop="name" content="The parable of the squirrel">
 <meta itemprop="description" content="(aka A ferocious metaphysical dispute1) Some time ago, being with a camping party in the mountains, I returned from a solitary ramble to find everyone engaged in a ferocious metaphysical dispute.
@@ -134,8 +135,7 @@ The man knows the squirrel is on the other side of the tree-trunk, but he can&rs
 <meta itemprop="wordCount" content="454">
 <meta itemprop="keywords" content="" />
   
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="The parable of the squirrel"/>
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="The parable of the squirrel"/>
 <meta name="twitter:description" content="(aka A ferocious metaphysical dispute1) Some time ago, being with a camping party in the mountains, I returned from a solitary ramble to find everyone engaged in a ferocious metaphysical dispute.
 The focus of the dispute was a squirrel &ndash; a live squirrel supposed to be clinging to one side of a tree-trunk; while over against the opposite side of the tree, a man was imagined to stand.
 The man knows the squirrel is on the other side of the tree-trunk, but he can&rsquo;t see the squirrel."/>
@@ -173,7 +173,7 @@ The man knows the squirrel is on the other side of the tree-trunk, but he can&rs
 
     
     const metaTheme = document.querySelector('meta[name="theme-color"]');
-    const lightBg = `"#fff"`.replace(/"/g, '');
+    const lightBg = `#fff`.replace(/"/g, '');
     const setDark = (isDark) => {
       metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');

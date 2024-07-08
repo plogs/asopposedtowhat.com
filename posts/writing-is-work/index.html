@@ -83,7 +83,7 @@ The hard part is putting words on paper in such a way that the reader understand
   <link rel="apple-touch-icon" href="https://asopposedtowhat.com/apple-touch-icon.png" />
 
   
-  <meta name="generator" content="Hugo 0.111.3">
+  <meta name="generator" content="Hugo 0.121.2">
 
   
   
@@ -92,7 +92,7 @@ The hard part is putting words on paper in such a way that the reader understand
   
   
   
-<script type="application/javascript">
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -127,6 +127,7 @@ The hard part is putting words on paper in such a way that the reader understand
 <meta property="article:published_time" content="2022-03-24T06:41:42-07:00" />
 <meta property="article:modified_time" content="2022-03-24T06:41:42-07:00" />
 
+
   
   <meta itemprop="name" content="Writing Is Work">
 <meta itemprop="description" content="What is your writing process? The first thing is, you&rsquo;ve got something to say. It starts with an idea you want to express, or a question you want to answer.
@@ -137,8 +138,7 @@ The hard part is putting words on paper in such a way that the reader understand
 <meta itemprop="wordCount" content="1569">
 <meta itemprop="keywords" content="" />
   
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Writing Is Work"/>
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Writing Is Work"/>
 <meta name="twitter:description" content="What is your writing process? The first thing is, you&rsquo;ve got something to say. It starts with an idea you want to express, or a question you want to answer.
 But that&rsquo;s only the beginning.
 The hard part is not expressing ideas or answering questions. Or even having something to say. Anyone can fill a blank page with words. Just transcribe your train of thought, it never stops.
@@ -177,7 +177,7 @@ The hard part is putting words on paper in such a way that the reader understand
 
     
     const metaTheme = document.querySelector('meta[name="theme-color"]');
-    const lightBg = `"#fff"`.replace(/"/g, '');
+    const lightBg = `#fff`.replace(/"/g, '');
     const setDark = (isDark) => {
       metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');

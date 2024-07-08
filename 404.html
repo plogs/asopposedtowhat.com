@@ -74,7 +74,7 @@
   <link rel="apple-touch-icon" href="https://asopposedtowhat.com/apple-touch-icon.png" />
 
   
-  <meta name="generator" content="Hugo 0.111.3">
+  <meta name="generator" content="Hugo 0.121.2">
 
   
   
@@ -83,7 +83,7 @@
   
   
   
-<script type="application/javascript">
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -113,12 +113,12 @@ if (!doNotTrack) {
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://asopposedtowhat.com/404.html" />
 
+
   
   <meta itemprop="name" content="404 Page not found">
 <meta itemprop="description" content="">
   
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="404 Page not found"/>
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="404 Page not found"/>
 <meta name="twitter:description" content=""/>
 
   
@@ -154,7 +154,7 @@ if (!doNotTrack) {
 
     
     const metaTheme = document.querySelector('meta[name="theme-color"]');
-    const lightBg = `"#fff"`.replace(/"/g, '');
+    const lightBg = `#fff`.replace(/"/g, '');
     const setDark = (isDark) => {
       metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');

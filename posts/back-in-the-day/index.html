@@ -82,7 +82,7 @@ Once we walked into a Denny&rsquo;s restaurant and the waitress asked if I had a
   <link rel="apple-touch-icon" href="https://asopposedtowhat.com/apple-touch-icon.png" />
 
   
-  <meta name="generator" content="Hugo 0.111.3">
+  <meta name="generator" content="Hugo 0.121.2">
 
   
   
@@ -91,7 +91,7 @@ Once we walked into a Denny&rsquo;s restaurant and the waitress asked if I had a
   
   
   
-<script type="application/javascript">
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -125,6 +125,7 @@ Once we walked into a Denny&rsquo;s restaurant and the waitress asked if I had a
 <meta property="article:published_time" content="2023-11-07T20:09:26-08:00" />
 <meta property="article:modified_time" content="2023-11-07T20:09:26-08:00" />
 
+
   
   <meta itemprop="name" content="Back in the Day">
 <meta itemprop="description" content="Back in the day, Sneed liked to carry a pumpkin. He never really explained why, but I guess his weirdness wore off on me because I developed an equally bizarre hankering for zucchinis.
@@ -134,8 +135,7 @@ Once we walked into a Denny&rsquo;s restaurant and the waitress asked if I had a
 <meta itemprop="wordCount" content="64">
 <meta itemprop="keywords" content="" />
   
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Back in the Day"/>
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Back in the Day"/>
 <meta name="twitter:description" content="Back in the day, Sneed liked to carry a pumpkin. He never really explained why, but I guess his weirdness wore off on me because I developed an equally bizarre hankering for zucchinis.
 Once we walked into a Denny&rsquo;s restaurant and the waitress asked if I had a cucumber in my pocket.
 &ldquo;No,&rdquo; I said, &ldquo;it&rsquo;s a zucchini. Are you happy to see me?&rdquo;"/>
@@ -173,7 +173,7 @@ Once we walked into a Denny&rsquo;s restaurant and the waitress asked if I had a
 
     
     const metaTheme = document.querySelector('meta[name="theme-color"]');
-    const lightBg = `"#fff"`.replace(/"/g, '');
+    const lightBg = `#fff`.replace(/"/g, '');
     const setDark = (isDark) => {
       metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
