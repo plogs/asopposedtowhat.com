@@ -7,7 +7,7 @@ draft: false
 
 
 Imagine for a moment that in the past, innocent people were unfairly
-given cancer. Imagine that it was bad, and really unfair.
+given cancer. Imagine that it was bad and really unfair.
 
 We know that if this were true, that it's a terrible thing to do.
 
@@ -20,4 +20,4 @@ give out more cancer today, but to new and _different_ innocents.
 
 That would make everything okay.
 
-That should make the past will go away.
+That should make the past go away.
