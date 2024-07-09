@@ -19,6 +19,6 @@ effects?
 What we _could do_, in order to 'balance out' the past injustice, is
 give out more cancer today, but to new and _different_ innocents.
 
-That would make everything okay.
+Would that make everything okay?
 
-That should make the past go away.
+Does that make the past go away?
