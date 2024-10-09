@@ -31,22 +31,22 @@ But wait.
 It's true that the racial makeup of the prison population is not in
 alignment with the general population. And if the metric by which we
 judge is skin color, then the numbers are out-of-whack. But is this
-whackiness necessarily unfair? Can disproportionality numbers in and of
-themselves tell us when the problem is solved, or
-even if there _is_ a problem to be solved?
+whackiness necessarily unfair? Can disproportionality numbers in and
+of themselves tell us when the problem is solved, or even if there
+_is_ a problem to be solved?
 
-I don't think so. It seems unlikely that race relations in the United
-States can adequately be addressed by a one-dimensional metric of
-skin color.
+I don't think so. In this case it seems unlikely that race relations
+in the United States can adequately be understood or addressed by a
+one-dimensional skin color metric.
 
 
-This could be an instance of the disproportionality fallacy.
+More likely, this is an instance of the disproportionality fallacy.
 
 ## The disproportionality fallacy
 
 The disproportionality fallacy is simply the mistake we sometimes
 make when we assume something _should_ be proportional when there is
-actually no good reason to make that assumption.
+actually no good reason to assume that it should.
 
 
 
