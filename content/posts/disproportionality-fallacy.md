@@ -6,19 +6,17 @@ draft: true
 
 ## Life isn't fair
 
-We all know that life isn't fair, and yet, curiously, that doesn't
-stop us from grabbing the first simplistic solution we can find and
-then using it to beat even the most complex of problems about the
-head and shoulders.
-Case in point, race relations in the United States.
+We all know life isn't fair, which is maybe why we so badly want to
+jump to simple solutions when we see things so obviously seemingly
+wrong. Case in point, race relations in the United States.
 
-There's clearly a problem, we are told, as anyone can plainly see
-when they look at the statistics, that minorities are treated unfairly
-in this country. How so? Well, blacks make up 12% of the general population,
-but they account for 38% of the prison population. [^1]
+Clearly there's a problem -- Isn't there? -- with the treatment of
+minorities in this country. How so? Well, black Americans, for
+example, make up 12% of the general population and yet they account
+for 38% of the prison population. [^1]
 
-That's an obvious disproportionally. That looks like a racial
-disparity. Therefore blacks are being unfairly treated. Right?
+That's an obvious disproportionally. It looks like a racial
+disparity. So apparently blacks are being unfairly treated.
 Disproportionality equals disparity. Disparity equals unfair. Unfair
 means problem. Problems can and should be solved.
 
@@ -28,26 +26,50 @@ on in the world?
 
 But wait.
 
-It's true that the racial makeup of the prison population is not in
-alignment with the general population. And if the metric by which we
-judge is skin color, then the numbers are out-of-whack. But is this
-whackiness necessarily unfair? Can disproportionality numbers in and
-of themselves tell us when the problem is solved, or even if there
-_is_ a problem to be solved?
+It's true that the racial makeup of the prison population does not
+align with the racial makeup of the general population; and if skin
+color is the metric by which we are to judge, then the numbers are
+out-of-whack. But is this whackiness necessarily unfair? Is focusing
+on fixing disproportinate numbers the way to solve the problem? Even
+more bluntly, is this type of _number disproportionately_ necessarily
+an indicator that there _is_ a problem to be solved?
 
-I don't think so. In this case it seems unlikely that race relations
-in the United States can adequately be understood or addressed by a
+No.
+
+Especially in this case.
+
+Why? Because it seems unlikely that race relations in the US can be
+adequately understood or addressed by anything as simplistic as a
 one-dimensional skin color metric.
 
 
-More likely, this is an instance of the disproportionality fallacy.
+To be clear, this is not to say there is or are no problems made
+manifest by treating different groups unfairly; but only that obvious
+disproportionalities are not necessarily signs of a problem. This
+brings us to the disproportionality fallacy.
+
 
 ## The disproportionality fallacy
 
 The disproportionality fallacy is simply the mistake we sometimes
-make when we assume something _should_ be proportional when there is
-actually no good reason to assume that it should.
+make when we see a disproportionality and then assume there is a
+problem to be solved. That is, we observe that the ratio of
+X-to-something doesn't match the ratio of Y-to-something and then
+conclude unfairness is afoot.
 
+The example above is a case in point. Why is it that the percentage
+of blacks in the population doesn't match the percentage of
+blacks in prisons?
+
+Well, there are probably lots of reasons, but ratio of prison to
+general popluation doesn't really tell us anything. But they should
+be equal, shouldn't they?
+
+
+Again, not necessarily. And here's why.
+
+If we assume disproportionality means unfair, then we have to
+...
 
 
 
@@ -57,10 +79,29 @@ black and brown skinned players over white and yellow players.
 
 
 Jews comprise only 0.2% of the world's population, and yet they
-represent 22% of all Nobel prize recipients. Which is to say, the
-Jewish share of winners is 110 times their proportion of the world's
-population.[^2]
+represent 22% of all Nobel prize recipients. Which is to say, Jewish
+laureates outrank the world's population by 110 times in terms of
+proportionality.[^2]
 
+Is this discrimination? Is this a sign of a problem to be solved?
+
+
+
+What can explain these differences?
+
+    culture, education, religion, genetics, world history, ideology,
+    family background, upbringing, socialization, etc.
+
+But is misdiagnosing a problem really such a problem?
+
+Yes, and here's why.
+
+
+## When the cure is worse than the disease
+
+For a long time stomach ulcers were thought to be caused by spicy
+foods, stress, and even xxxx. But in the 1980s we discovered the true
+cause: Helicobacter pylori (H. pylori).
 
 
 
