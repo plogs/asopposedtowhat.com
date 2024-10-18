@@ -35,11 +35,11 @@ into play.
 What other factors, if any, might explain disproportionalities
 between groups that we think should be treated proportionally?
 
-The short answer is culture.[^2]
+The short answer is culture.
 
-    "Culture can and does alter our brains, hormones, and anatomy,
-    along with our perceptions, motivations, personalities,
-    emotions, and many other aspects of our minds."
+"Culture can and does alter our brains, hormones, and anatomy, along
+with our perceptions, motivations, personalities, emotions, and many
+other aspects of our minds." [^2]
 
 But isn't blaming 'culture', in this context, just another excuse for
 racism? Well of course it _could_ be, but is it? (If you're intent on
@@ -66,39 +66,34 @@ do we mean by 'culture'? For example:[^3]
    they innovate.
 
 
-Culture then, is many things.
-
-    education, religion, genetics, world history, ideology,
-    family background, upbringing, socialization, etc.
-
+Culture then, is many things: education, religion, genetics, world
+history, ideology, family background, upbringing, socialization, etc.
 In short, it's complicated.
 
 But why not just take the easy approach and always assume that
 disproportionalities _must_ point to problems to be solved?
 
-Why?
+Why not?
 
 Because in most other contexts, that would be silly.
 
-For example, the US, by population, is 6% Asian and 13% Black. And
-yet, incredibly, when we look at the percentage of players by race
+For example, the US by population is 6% Asian and 13% Black. And
+yet when we look at the percentage of players by race
 participating in the National Basketball Association (NBA), we find
-1% Asian, and 73% Black. That is a whopping disproportionality. Asian
-discrimination? Structural racism? I don't think so.
+1% Asian and 73% Black. What? That's a whopping disproportionality. Asian
+discrimination? Structural racism?
 
 Jews comprise 0.2% of the world's population, and yet they represent
 22% of all Nobel prize recipients. Which is to say, Jewish laureates
 outrank the world's population by 110 times in terms of
-proportionality.[^4] Is this ethno-religious discrimination? I don't
-think so.
+proportionality.[^4] Is this ethno-religious discrimination?
 
 Males hold most of the CEO positions in top-rated companies.
-Discrimination against women?
+Sex discrimination against women?
 
 As of 2022, 93% of the prison population were men, while 7% were
-women. Female incarceration has risen over the past decades, but men
-still make up the overwhelming majority of the U.S. prison
-population. Is this obvious discrepancy discrimination against men?
+women. Sex discrimination against men?
+
 
 Not necessarily. And that's the thing. It's easy for us to use bad
 arguments to simplify problems, even when the world is complicated.
@@ -107,15 +102,16 @@ And so we fall victim to the disproportionality fallacy.
 It may in fact be true that Blacks are still systemically
 discriminated against in this country, but don't use
 disproportionality as your proof, because if you do, then we'll end
-up with goofy 'solutions' like affirmative action for White and
-Asian NBA players -- you know, in order to make things more
-proportional, more fair.
+up with goofy 'solutions' like affirmative action for White and Asian
+NBA players -- you know, in order to make things more proportional,
+_to solve the problem_.
 
-## Try harder
+No.
 
-Try harder to understand. Things may not be as simple as they seem.
+## Mind your portions
 
-Beware the disproportionality fallacy.
+Try harder to understand what's really going on, if anything.
+And _beware the disproportionality fallacy_.
 
 
 [^1]: 2020 Census 
