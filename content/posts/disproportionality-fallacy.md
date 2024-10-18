@@ -73,8 +73,6 @@ In short, it's complicated.
 But why not just take the easy approach and always assume that
 disproportionalities _must_ point to problems to be solved?
 
-Why not?
-
 Because in most other contexts, that would be silly.
 
 For example, the U.S. population is 6% Asian and 13% Black. And yet
