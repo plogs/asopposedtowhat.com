@@ -11,7 +11,7 @@ to continue using bad arguments to simplify situations into problems
 easily solved if only everyone else could see as clearly as we. Case
 in point, race relations in the United States.
 
-Black Americans make up 12% of the general population, and yet they
+Black Americans make up 13% of the general population, and yet they
 account for 38% of the prison population.[^1]
 
 Assuming that life should be proportional by race, that's an obvious
