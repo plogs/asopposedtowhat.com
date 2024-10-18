@@ -77,23 +77,32 @@ Why not?
 
 Because in most other contexts, that would be silly.
 
-For example, the US by population is 6% Asian and 13% Black. And
-yet when we look at the percentage of players by race
-participating in the National Basketball Association (NBA), we find
-1% Asian and 73% Black. What? That's a whopping disproportionality. Asian
-discrimination? Structural racism?
+For example, the U.S. population is 6% Asian and 13% Black. And yet
+when we look at the percentage of players by race participating in
+the National Basketball Association (NBA), we find 1% Asian and 73%
+Black. What? That's a whopping disproportionality. What's going on?
+Asian discrimination? Structural racism?
 
 Jews comprise 0.2% of the world's population, and yet they represent
 22% of all Nobel prize recipients. Which is to say, Jewish laureates
 outrank the world's population by 110 times in terms of
-proportionality.[^4] Is this ethno-religious discrimination?
+proportionality.[^4] Ethno-religious
+discrimination?
 
-Males hold most of the CEO positions in top-rated companies.
-Sex discrimination against women?
+At nearly every age, divorce rates are higher for Black than for
+White women, and they are generally lowest among Asian and
+foreign-born Hispanic women.[^5] Are Black and White women
+discriminated against, in favor of Asian and foreign-born Hispanic
+women?
 
-As of 2022, 93% of the prison population were men, while 7% were
-women. Sex discrimination against men?
+AIAN people (American Indian or Alaska Native) showed the highest
+percentage of unrestrained passenger vehicle occupants killed (65%)
+followed by Black or African American people (61%).[^6] Obviously a
+disproportional percentage of the population. What causes people to
+not wear seatbelts. Discrimination?
 
+Whites make up 60% of the population but only 50% of the traffic
+accidents?[^7] Problem?
 
 Not necessarily. And that's the thing. It's easy for us to use bad
 arguments to simplify problems, even when the world is complicated.
@@ -102,19 +111,23 @@ And so we fall victim to the disproportionality fallacy.
 It may in fact be true that Blacks are still systemically
 discriminated against in this country, but don't use
 disproportionality as your proof, because if you do, then we'll end
-up with goofy 'solutions' like affirmative action for White and Asian
-NBA players -- you know, in order to make things more proportional,
-_to solve the problem_.
+up with goofy nonsensical 'solutions' like affirmative action for
+White and Asian NBA players -- you know, to make things more equal,
+to _solve_ the disproportionality problem.
 
 No.
 
 ## Mind your portions
 
-Try harder to understand what's really going on, if anything.
-And _beware the disproportionality fallacy_.
+Try harder to understand what's really going on, _if anything_.
+And beware the disproportionality fallacy.
 
 
 [^1]: 2020 Census 
 [^2]: The culture Quote is from "The Weirdest people in the world," by Joseph Henrich, page 5.
 [^3]: Again from "The Weirdest people in the world," pages 16-17.
 [^4]: https://en.wikipedia.org/wiki/List_of_Jewish_Nobel_laureates
+[^5]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4850739/
+[^6]: 2020 Data - Race and Ethnicity - CrashStats - NHTSA
+[^7]: 2020 Data - Race and Ethnicity - CrashStats - NHTSA
+
