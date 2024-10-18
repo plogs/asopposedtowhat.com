@@ -1,7 +1,7 @@
 ---
-title: "The Disproportionality Fallacy"
+title: "Beware the Disproportionality Fallacy"
 date: 2024-10-08T19:33:50-07:00
-draft: true
+draft: false
 ---
 
 ## Life isn't fair
@@ -74,8 +74,11 @@ Culture then, is many things.
 In short, it's complicated.
 
 But why not just take the easy approach and always assume that
-disproportionalities _must_ point to problems to be solved? Because
-in most other contexts, that would be silly.
+disproportionalities _must_ point to problems to be solved?
+
+Why?
+
+Because in most other contexts, that would be silly.
 
 For example, the US, by population, is 6% Asian and 13% Black. And
 yet, incredibly, when we look at the percentage of players by race
@@ -108,50 +111,14 @@ up with goofy 'solutions' like affirmative action for White and
 Asian NBA players -- you know, in order to make things more
 proportional, more fair.
 
-Try harder.
+## Try harder
+
+Try harder to understand. Things may not be as simple as they seem.
+
 Beware the disproportionality fallacy.
-Things may not be as simple as they seem.
-
-
-
-
-
-
-----
-
-
-Why is focusing on the wrong solution a big deal?
-
-## When the solution is a red herring
-
-For many years stomach ulcers were thought to be caused by spicy
-foods and stress. Treatments varied.
-
-In the 1920s: The use of milk through a naso-gastric tube (a tube inserted
-through the nose, into the stomach) was recommended to neutralize the
-acid. A bland diet with frequent, small meals was also suggested.[^5]
-
-In the 1930s to 1960s: Surgery was often performed to cure peptic
-ulcer disease, often removing large portions of the stomach. This was
-considered a standard treatment for those for whom antacids were
-ineffective.
-
-But then in the 1980s, we discovered the true cause: Helicobacter
-pylori (H. pylori).
-
-For decades then, we pursued wrong solutions because we didn't know
-the true cause.
-
-It may be the same with our disproportionalities today. Things may
-not be as simple as they seem.
-
-
-
-
 
 
 [^1]: 2020 Census 
 [^2]: The culture Quote is from "The Weirdest people in the world," by Joseph Henrich, page 5.
 [^3]: Again from "The Weirdest people in the world," pages 16-17.
 [^4]: https://en.wikipedia.org/wiki/List_of_Jewish_Nobel_laureates
-[^5]: https://www.latimes.com/archives/la-xpm-1994-04-22-va-48924-story.html
