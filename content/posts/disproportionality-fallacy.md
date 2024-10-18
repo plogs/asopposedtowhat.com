@@ -6,109 +6,144 @@ draft: true
 
 ## Life isn't fair
 
-We all know life isn't fair, which is maybe why we so badly want to
-jump to simple solutions when we see things so obviously seemingly
-wrong. Case in point, race relations in the United States.
+We all know life isn't fair, which is maybe why it's so easy for us
+to continue using bad arguments to simplify situations into problems
+easily solved if only everyone else could see as clearly as we. Case
+in point, race relations in the United States.
 
-Clearly there's a problem -- Isn't there? -- with the treatment of
-minorities in this country. How so? Well, black Americans, for
-example, make up 12% of the general population and yet they account
-for 38% of the prison population. [^1]
+Black Americans make up 12% of the general population, and yet they
+account for 38% of the prison population.[^1]
 
-That's an obvious disproportionally. It looks like a racial
-disparity. So apparently blacks are being unfairly treated.
-Disproportionality equals disparity. Disparity equals unfair. Unfair
-means problem. Problems can and should be solved.
+Assuming that life should be proportional by race, that's an obvious
+disproportionality. Furthermore, we know that Blacks used to be
+slaves in this country (i.e., discriminated against), and so that
+knowledge, coupled with this modern day disproportionality, can only
+mean that Blacks are _still_ being discriminated against.
 
-Now that we see the problem, what can we do about it?
-How do we fix those numbers? Don't you _care_ about what's going
-on in the world?
+Right?
 
-But wait.
+Isn't that the simplest, most straightforward explanation?
 
-It's true that the racial makeup of the prison population does not
-align with the racial makeup of the general population; and if skin
-color is the metric by which we are to judge, then the numbers are
-out-of-whack. But is this whackiness necessarily unfair? Is focusing
-on fixing disproportinate numbers the way to solve the problem? Even
-more bluntly, is this type of _number disproportionately_ necessarily
-an indicator that there _is_ a problem to be solved?
+It's definitely simple and straightforward, but is it the most
+likely explanation? Let's think about that.
 
-No.
+In order to pick the most likely explanation, you must first be aware
+of other possible explanations. Also it's possible that things are
+not as simple as they seem; maybe several contributing factors come
+into play.
 
-Especially in this case.
+What other factors, if any, might explain disproportionalities
+between groups that we think should be treated proportionally?
 
-Why? Because it seems unlikely that race relations in the US can be
-adequately understood or addressed by anything as simplistic as a
-one-dimensional skin color metric.
+The short answer is culture.[^2]
 
+    "Culture can and does alter our brains, hormones, and anatomy,
+    along with our perceptions, motivations, personalities,
+    emotions, and many other aspects of our minds."
 
-To be clear, this is not to say there is or are no problems made
-manifest by treating different groups unfairly; but only that obvious
-disproportionalities are not necessarily signs of a problem. This
-brings us to the disproportionality fallacy.
+But isn't blaming 'culture', in this context, just another excuse for
+racism? Well of course it _could_ be, but is it? (If you're intent on
+seeing the world through racist lenses, then you will always see what
+you're looking for.)
 
+## Culture
 
-## The disproportionality fallacy
-
-The disproportionality fallacy is simply the mistake we sometimes
-make when we see a disproportionality and then assume there is a
-problem to be solved. That is, we observe that the ratio of
-X-to-something doesn't match the ratio of Y-to-something and then
-conclude unfairness is afoot.
-
-The example above is a case in point. Why is it that the percentage
-of blacks in the population doesn't match the percentage of
-blacks in prisons?
-
-Well, there are probably lots of reasons, but ratio of prison to
-general popluation doesn't really tell us anything. But they should
-be equal, shouldn't they?
+Culture is the short answer. The longer answer is longer. What, then,
+do we mean by 'culture'? For example:[^3]
 
 
-Again, not necessarily. And here's why.
-
-If we assume disproportionality means unfair, then we have to
-...
+ * Religious convictions can powerfully shape decision-making,
+   psychology, and society.
 
 
+ * Beliefs, practices, technologies, and social norms can shape our
+   brains, biology, and psychology, including our motivations, mental
+   abilities, and decision-making biases.
 
-The National Basketball Association (NBA) apparently strongly favors
-black and brown skinned players over white and yellow players.
-
-
-
-Jews comprise only 0.2% of the world's population, and yet they
-represent 22% of all Nobel prize recipients. Which is to say, Jewish
-laureates outrank the world's population by 110 times in terms of
-proportionality.[^2]
-
-Is this discrimination? Is this a sign of a problem to be solved?
+ * Psychological changes induced by culture can shape all manner of
+   subsequent events by influencing what people pay attention to, how
+   they make decisions, which institutions they prefer, and how much
+   they innovate.
 
 
+Culture then, is many things.
 
-What can explain these differences?
-
-    culture, education, religion, genetics, world history, ideology,
+    education, religion, genetics, world history, ideology,
     family background, upbringing, socialization, etc.
 
-But is misdiagnosing a problem really such a problem?
+In short, it's complicated.
 
-Yes, and here's why.
+But why not just take the easy approach and always assume that
+disproportionalities _must_ point to problems to be solved? Because
+in most other contexts, that would be silly.
+
+For example, the US, by population, is 6% Asian and 13% Black. And
+yet, incredibly, when we look at the percentage of players by race
+participating in the National Basketball Association (NBA), we find
+1% Asian, and 73% Black. That is a whopping disproportionality. Asian
+discrimination? Structural racism? I don't think so.
+
+Jews comprise 0.2% of the world's population, and yet they represent
+22% of all Nobel prize recipients. Which is to say, Jewish laureates
+outrank the world's population by 110 times in terms of
+proportionality.[^4] Is this ethno-religious discrimination? I don't
+think so.
+
+Males hold most of the CEO positions in top-rated companies.
+Discrimination against women?
+
+As of 2022, 93% of the prison population were men, while 7% were
+women. Female incarceration has risen over the past decades, but men
+still make up the overwhelming majority of the U.S. prison
+population. Is this obvious discrepancy discrimination against men?
+
+Not necessarily. And that's the thing. It's easy for us to use bad
+arguments to simplify problems, even when the world is complicated.
+And so we fall victim to the disproportionality fallacy.
+
+It may in fact be true that Blacks are still systemically
+discriminated against in this country, but don't use
+disproportionality as your proof, because if you do, then we'll end
+up with goofy 'solutions' like affirmative action for White and
+Asian NBA players -- you know, in order to make things more
+proportional, more fair.
+
+Try harder.
+Beware the disproportionality fallacy.
+Things may not be as simple as they seem.
 
 
-## When the cure is worse than the disease
-
-For a long time stomach ulcers were thought to be caused by spicy
-foods, stress, and even xxxx. But in the 1980s we discovered the true
-cause: Helicobacter pylori (H. pylori).
 
 
 
 
+----
 
 
+Why is focusing on the wrong solution a big deal?
 
+## When the solution is a red herring
+
+For many years stomach ulcers were thought to be caused by spicy
+foods and stress. Treatments varied.
+
+In the 1920s: The use of milk through a naso-gastric tube (a tube inserted
+through the nose, into the stomach) was recommended to neutralize the
+acid. A bland diet with frequent, small meals was also suggested.[^5]
+
+In the 1930s to 1960s: Surgery was often performed to cure peptic
+ulcer disease, often removing large portions of the stomach. This was
+considered a standard treatment for those for whom antacids were
+ineffective.
+
+But then in the 1980s, we discovered the true cause: Helicobacter
+pylori (H. pylori).
+
+For decades then, we pursued wrong solutions because we didn't know
+the true cause.
+
+It may be the same with our disproportionalities today. Things may
+not be as simple as they seem.
 
 
 
@@ -116,5 +151,7 @@ cause: Helicobacter pylori (H. pylori).
 
 
 [^1]: 2020 Census 
-[^2]: https://en.wikipedia.org/wiki/List_of_Jewish_Nobel_laureates
-
+[^2]: The culture Quote is from "The Weirdest people in the world," by Joseph Henrich, page 5.
+[^3]: Again from "The Weirdest people in the world," pages 16-17.
+[^4]: https://en.wikipedia.org/wiki/List_of_Jewish_Nobel_laureates
+[^5]: https://www.latimes.com/archives/la-xpm-1994-04-22-va-48924-story.html
