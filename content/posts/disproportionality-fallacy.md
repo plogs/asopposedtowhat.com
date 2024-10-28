@@ -48,10 +48,11 @@ you're looking for.)
 
 ## Culture
 
-The short answer is culture. The long answer is that there are many
-aspects to a person's life that affect what they do, how they live,
-and how others respond. Here are some examples from, "_The
-Weirdest people in the world_," by Joseph Henrich. [^3]
+The short answer to "What other factors?" is culture. The long answer
+is that there are many aspects to a person's life that affect what
+they do, how they live, and how others respond. Here are some
+examples from, "_The Weirdest people in the world_," by Joseph
+Henrich. [^3]
 
 
  * Religious convictions can powerfully shape decision-making,
@@ -77,34 +78,37 @@ disproportionalities _must_ point to problems to be solved?
 
 Because in most other contexts, that would be silly.
 
+# That would be silly
+
 For example, the U.S. population is 6% Asian and 13% Black. And yet
 when we look at the percentage of players-by-race participating in
 the National Basketball Association (NBA), we find 1% Asian and 73%
-Black. That's a whopping disproportionality. What's going on?
-Asian discrimination? Structural racism?
+Black. That's a whopping disproportionality if ever there was one. So
+what's going on? Some sort of locker room discrimination? Asian
+racism?
 
-Jews make up _less than one percent_ of the world's population, and
-yet they account for 22% of all Nobel prize recipients. Which is to
-say, Jewish laureates outrank the world's population in terms of
-proportionality by 110 times.[^4] Is that disproportionality
-indicative of some weird ethno-religious discrimination against
-non-Jews?
+Jews make up less than one percent of the world's population, and yet
+they account for 22% of all Nobel prize recipients. Which is to say,
+"their share of winners is 110 times their proportion of the world's
+population." [^4] Is that disproportionality indicative of some weird
+ethno-religious discrimination against non-Jews? Is there a problem
+to be fixed?
 
 At nearly every age, divorce rates are higher for Black than for
 White women, and they are generally lowest among Asian and
 foreign-born Hispanic women.[^5] Are Black and White women
-discriminated against, in favor of Asian and foreign-born Hispanic
+discriminated against in favor of Asian and foreign-born Hispanic
 women, when it comes to picking long-term mates?
 
-AIAN people (American Indian or Alaska Native) showed the highest
+AIAN people (American Indian or Alaska Native) show the highest
 percentage of unrestrained passenger vehicle occupants killed (65%)
 followed by Black or African American people (61%).[^6] Obviously a
-disproportional percentage of the population. What causes people to
-not wear seatbelts. Discrimination?
+disproportionate percentage of the population. What causes people to
+not wear seat belts. Systemic structural discrimination?
 
 Whites make up 60% of the population but only 50% of the traffic
-accidents? [^7] Are Whites just not trying hard enough, or is there
-some kind of problem?
+accidents? [^7] Are Whites just not trying hard enough. Is this
+a problem?
 
 Not necessarily. And that's the thing. It's easy for us to use bad
 arguments to simplify problems, even when the world is complicated.
@@ -113,9 +117,9 @@ And so we fall victim to the disproportionality fallacy.
 It may in fact be true that Blacks are still systemically
 discriminated against in this country, but don't use
 disproportionality as your proof, because if you do, then we'll end
-up with goofy 'solutions' like affirmative action for
-White and Asian NBA players -- you know, to make things more equal,
-to _solve_ the disproportionality problem.
+up with goofy 'solutions' like affirmative action for White and Asian
+NBA players -- you know, to make things more equal, to _solve_ the
+disproportionality problem.
 
 No.
 
