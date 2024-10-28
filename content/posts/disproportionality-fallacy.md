@@ -78,7 +78,7 @@ disproportionalities _must_ point to problems to be solved?
 
 Because in most other contexts, that would be silly.
 
-# That would be silly
+## That would be silly
 
 For example, the U.S. population is 6% Asian and 13% Black. And yet
 when we look at the percentage of players-by-race participating in
