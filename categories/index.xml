@@ -4,8 +4,9 @@
     <title>Categories on AsOpposedToWhat.com</title>
     <link>https://asopposedtowhat.com/categories/</link>
     <description>Recent content in Categories on AsOpposedToWhat.com</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright {year} Steve Isaacson</copyright><atom:link href="https://asopposedtowhat.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright {year} Steve Isaacson</copyright>
+    <atom:link href="https://asopposedtowhat.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
