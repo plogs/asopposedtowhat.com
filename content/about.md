@@ -7,7 +7,10 @@ draft: false
 AsOpposedToWhat.com is a collection of thought provoking and possibly
 entertaining essays.
 
-Are you easily offended? If so, you might want to watch Steve Hughes on [Health and Safety](https://youtu.be/vbsHox73mRo?t=202)[^1]
+
+Are you easily offended? If so, you might want to watch Steve Hughes
+on [Health and Safety](/videos/SteveHughes.webm#t=202)[^1]
+
 
     Questions or comments?
     email stevei@asopposedtowhat.com
