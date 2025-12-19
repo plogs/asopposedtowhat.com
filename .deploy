@@ -7,7 +7,9 @@
 # site. You may then deploy your site by copying the public/ directory
 # to your production web server.
 
-thisdir=/run/media/stevei/plnkx/2019-github/asopposedtowhat.com.src
+thisdir=/mnt/usbdrive/plnkx/2019-github/asopposedtowhat.com.src
+targetDir=/mnt/usbdrive/plnkx/2019-github/asopposedtowhat.com
+
 cd $thisdir || {
     echo "Error: could not cd to: $thisdir"
     exit 1
@@ -33,7 +35,6 @@ sleep 1
 tmptar=/tmp/stevei.hugo.tar
 tar cvf $tmptar *
 
-targetDir=/run/media/stevei/plnkx/2019-github/asopposedtowhat.com
 echo "cd to: $targetDir"
 sleep 1
 

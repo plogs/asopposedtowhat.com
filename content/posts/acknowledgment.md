@@ -4,12 +4,18 @@ date: 2025-05-17T17:25:41-07:00
 draft: false
 ---
 
-
 <center>
-  <a href='https://en.wikipedia.org/wiki/File:A_scalp_dance.jpg'><img src='/images/scalp_dance.png' style='max-width: 90%;
-    height: auto; display: block;' alt="Scalp Dance"></a>
-  <p style='opacity: 50%; margin-top: -2em; font-size: 80%;'><em>A scalp dance</em></p>
+<p>
+  <img src="/images/scalp_dance.jpg" alt="A scalp dance" style="width: 80%;" />
+</p>
+
+<p style='opacity: 50%; margin-top: -2em; font-size: 80%;'><a href='https://en.wikipedia.org/wiki/File:A_scalp_dance.jpg'><em>A scalp dance</em></a></p>
+
 </center>
+
+
+
+
 
 At the beginning of many events
 it's now fashionable to begin with
@@ -31,7 +37,7 @@ given that they only acknowledge the previous land occupants. Not the
 ones before them, or the ones before them, and so on, all the way
 back to the [Clovis
 People](https://en.wikipedia.org/wiki/Clovis_culture), the first
-settlers of North America.
+settlers of North America.[^emerged]
 
 Clovis refers to the earliest [^debated] known prehistoric
 Native American culture. One theory is that the
@@ -51,7 +57,7 @@ subsequently appropriated by Spanish explorers, English settlers, and
 other European colonists.
 
 Given what we know of human nature in general, and Native American
-populations in particular, it seems safe to assume that
+populations in particular, it likely that
 `land appropriation' throughout history (from the Clovis culture
 thousands of years ago to modern tribes today -- even prior to
 European colonization, circa 1492), was likely violent and
@@ -97,18 +103,24 @@ European colonization. [^displaced] [^warfare]
 
 So land acknowledgments are really just [virtue
 signaling](https://en.wikipedia.org/wiki/Virtue_signalling). We're
-implying that our invading culture is somehow better than all of the
+implying that our invading culture is somehow better than all 
 previous invading cultures.
 
+How do we imply this?
 
-It's better because we're willing to shame ourselves by drawing
-attention to our occupation of unceded land that was unceremoniously
-appropriated from an indigenous tribe that managed to occupy unceded
-land from a prior indigenous tribe, who managed to occupy ancestral
-and unceded territory from a previous prior tribe or nation; and so on
-and so forth, all the way back to the Clovis people, who's distant
-ancestors ultimately came from Africa. [^c1] [^c2]
+We imply this by conspicuously drawing attention to our occupation of
+unceded land that was unceremoniously appropriated from indigenous
+tribes who themselves managed to occupy unceded land from prior
+indigenous tribes, who in turn managed to occupy ancestral unceded
+territory from prior previous tribes, and so on and so forth, all the
+way back to the Clovis people who's distant ancestors originally came
+from Africa. [^c1] [^c2]
 
+Are we going to give the land back?
+
+No.
+
+Then shut up about it.
 
 
 [^recognized]: https://www.usa.gov/tribes
@@ -149,6 +161,10 @@ prior to European contact.
 [^c2]: Waters, Michael R., and Thomas W. Stafford Jr. "Redefining the Age of Clovis: Implications for the Peopling of the Americas." *Science*, vol. 315, no. 5815, 2007, pp. 1122–1126. DOI:10.1126/science.1137166. This paper provides archaeological evidence for the age and spread of the Clovis culture in North America.
 
 
+[^emerged]: Genus _Homo_ (our direct lineage) emerged in Africa about
+23 million years ago. Anatomically modern humans (Homo sapiens)
+evolved in Africa around 300,000 years ago. All non-African humans
+descend from later migrations out of Africa.
 
 [^scalp1]: Kehoe, Alice B. *North American Indians: A Comprehensive Account*. 3rd ed., Pearson, 2005, pp. 236–238.
 [^scalp2]: Brown, Joseph Epes. *The Spiritual Legacy of the American Indian*. Crossroad, 1982.
