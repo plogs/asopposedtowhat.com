@@ -1,0 +1,9 @@
+
+ffmpeg -i SteveHughes.webm \
+  -map 0:v:0 -map 0:a:0 \
+  -c:v libx264 -pix_fmt yuv420p \
+  -c:a aac -b:a 192k \
+  SteveHughes.mp4
+
+
+ mpv *.mp4
