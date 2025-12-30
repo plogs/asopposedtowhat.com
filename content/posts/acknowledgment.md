@@ -57,7 +57,7 @@ subsequently appropriated by Spanish explorers, English settlers, and
 other European colonists.
 
 Given what we know of human nature in general, and Native American
-populations in particular, it likely that
+populations in particular, it's likely that
 'land appropriation' throughout history (from the Clovis culture
 thousands of years ago to modern tribes today -- even prior to
 European colonization, circa 1492), was likely violent and
@@ -105,8 +105,8 @@ signaling](https://en.wikipedia.org/wiki/Virtue_signalling).
 No one really cares about the public consciousness of Native
 sovereignty and cultural rights. What we care about -- some of us, anyway --
 are the good feelings that we get when we imply
-that _our_ invading culture is somehow better than 
-previous invading cultures.
+that _our_ invading culture has learned from the past and is now
+somehow better than the previous invading cultures.[^better]
 
 How do we imply this?
 
@@ -174,3 +174,4 @@ descend from later migrations out of Africa.
 [^scalp3]: Calloway, Colin G. *First Peoples: A Documentary Survey of American Indian History*. 6th ed., Bedford/St. Martin’s, 2019, pp. 122–125.
 [^scalp4]: Densmore, Frances. *Teton Sioux Music and Culture*. Originally published 1918. Reprint, University of Nebraska Press, 1992, pp. 107–110.
 
+[^better]: It is, but not because of land acknowledgments.
