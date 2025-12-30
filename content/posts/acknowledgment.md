@@ -58,7 +58,7 @@ other European colonists.
 
 Given what we know of human nature in general, and Native American
 populations in particular, it likely that
-`land appropriation' throughout history (from the Clovis culture
+'land appropriation' throughout history (from the Clovis culture
 thousands of years ago to modern tribes today -- even prior to
 European colonization, circa 1492), was likely violent and
 unforgiving.
@@ -79,31 +79,33 @@ unforgiving.
    agricultural villages. [^raiding]
 
 
-Not all was violence, of course. Many tribes maintained long-standing
-peace with neighbors and used diplomacy, intermarriage, and trade to
-manage relations. [^peace]
+Not all Native American history was violence, of course. Many
+tribes maintained long-standing peace with neighbors and used
+diplomacy, intermarriage, and trade to manage relations. [^peace]
 
-Most of the time "indigenous" means first, but it can also refer to
-people, plants, or animals that originate from, or have a
-long-standing connection to, a specific place. Other terms used
-include "Native" and "First Nations."
-
-So maybe acknowledging Clovis is going back too far.
-
-And yet the question remains: How far back _do_ we go when
+And yet the question remains: How far back does one go when
 acknowledging "public consciousness of Native sovereignty and
 cultural rights"?
 
-Native American nations today are "indigenous" to North America as
-First Nations. Undoubtedly some of these First Nations
-displaced _other_ Indigenous nations, even before
-European colonization. [^displaced] [^warfare]
+Today's Native American tribes haven't always been here. Undoubtedly
+the current tribes (and/or their descendants) displaced previous
+tribes, even before European colonists came on the scene.
+[^displaced] [^warfare]
+
+So one wonders. Did
+Native American tribes do land acknowledgments, too?
+Probably not.
+
+Then why do we do it?
 
 # Virtue signaling
 
-So land acknowledgments are really just [virtue
-signaling](https://en.wikipedia.org/wiki/Virtue_signalling). We're
-implying that our invading culture is somehow better than all 
+Land acknowledgments are a form of [virtue
+signaling](https://en.wikipedia.org/wiki/Virtue_signalling).
+No one really cares about the public consciousness of Native
+sovereignty and cultural rights. What we care about -- some of us, anyway --
+are the good feelings that we get when we imply
+that _our_ invading culture is somehow better than 
 previous invading cultures.
 
 How do we imply this?
@@ -116,7 +118,8 @@ territory from prior previous tribes, and so on and so forth, all the
 way back to the Clovis people who's distant ancestors originally came
 from Africa. [^c1] [^c2]
 
-Are we going to give the land back?
+So the final thing to say about land acknowledgments really is just
+this. Are we going to give the land back?
 
 No.
 
