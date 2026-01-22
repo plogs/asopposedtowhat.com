@@ -16,16 +16,16 @@ draft: false
 
 
 
-
-At the beginning of many events
-it's now fashionable to begin with
+It's now fashionable at
+public events
+to begin with
 an _indigenous land acknowledgment_, usually something along these
 lines:
 
 <div style='margin-left: .5em; margin-right: .5em; padding: 1em; background-color: #ffcc99; font-family: monospace;'>
 "We would like to begin by acknowledging that we are in
-[insert PLACE NAME], the ancestral and unceded territory of the
-[so-and-so] people."
+[PLACE NAME], the ancestral and unceded territory of the
+[SO-AND-SO] people."
 </div>
 
 The ostensible goal of these acknowledgments is to promote a "greater
@@ -39,26 +39,29 @@ back to the [Clovis
 People](https://en.wikipedia.org/wiki/Clovis_culture), the first
 settlers of North America.[^emerged]
 
-Clovis refers to the earliest [^debated] known prehistoric
-Native American culture. One theory is that the
-Clovis people crossed the [Bering Land
-Bridge](https://en.wikipedia.org/wiki/Beringia) from Siberia and
-moved south through an ice-free corridor into the central U.S.,
-approximately 12,800 years ago. (See also [Peopling of the
+
+Clovis refers to one of the earliest known prehistoric Native
+American cultures. One theory is that the Clovis people crossed the
+Bering Land Bridge from Siberia and moved south through an ice-free
+corridor into the central U.S., approximately 12,800 years ago.
+(See also [Peopling of the
 Americas](https://en.wikipedia.org/wiki/Peopling_of_the_Americas).)
 
 Clovis culture pre-dates our modern-day concept of land ownership, so
 Clovis land could never have been legally ceded or given freely.
 
-Today, the 574 federally recognized [^recognized] tribes (Cherokee,
-Choctaw, Sioux, Comanche, Chnook, Inuit, etc.) occupy land that was
-once the home of the Clovis people. This land, in turn, was
+Today, the 574 federally recognized
+tribes (Cherokee,
+Choctaw, Sioux, Comanche, Chnook, Inuit, etc.)
+[^recognized]
+occupy land that was
+once home to the Clovis people. This land, in turn, was
 subsequently appropriated by Spanish explorers, English settlers, and
 other European colonists.
 
 Given what we know of human nature in general, and Native American
 populations in particular, it's likely that
-'land appropriation' throughout history (from the Clovis culture
+`land appropriation' throughout history (from the Clovis culture
 thousands of years ago to modern tribes today -- even prior to
 European colonization, circa 1492), was likely violent and
 unforgiving.
@@ -79,47 +82,46 @@ unforgiving.
    agricultural villages. [^raiding]
 
 
-Not all Native American history was violence, of course. Many
+Of course, not all Native American history was violent. Many
 tribes maintained long-standing peace with neighbors and used
 diplomacy, intermarriage, and trade to manage relations. [^peace]
 
-And yet the question remains: How far back does one go when
+But still,
+the question remains: How far back do we go when
 acknowledging "public consciousness of Native sovereignty and
 cultural rights"?
 
-Today's Native American tribes haven't always been here. Undoubtedly
-the current tribes (and/or their descendants) displaced previous
+Today's Native American tribes haven't always been here.
+The ones that are still here undoubtedly
+displaced previous
 tribes, even before European colonists came on the scene.
 [^displaced] [^warfare]
 
-So one wonders. Did
-Native American tribes do land acknowledgments, too?
-Probably not.
+So it's a wonder. 
+Do---or _did?_---Native American tribes do land acknowledgments, too?
 
-Then why do we do it?
+Probably not.  So why do we do it?
 
 # Virtue signaling
 
-Land acknowledgments are a form of [virtue
+We do it because land acknowledgments are a form of [virtue
 signaling](https://en.wikipedia.org/wiki/Virtue_signalling).
 No one really cares about the public consciousness of Native
-sovereignty and cultural rights. What we care about -- some of us, anyway --
-are the good feelings that we get when we imply
-that _our_ invading culture has learned from the past and is now
-somehow better than the previous invading cultures.[^better]
+sovereignty and cultural rights. What we care about are the
+feelings we get when we imply that _our_ invading culture has
+learned from the past and so now is somehow better than previous
+invading cultures of the past.[^better]
 
-How do we imply this?
-
-We imply this by conspicuously drawing attention to our occupation of
+We do this by conspicuously drawing attention to our occupation of
 unceded land that was unceremoniously appropriated from indigenous
 tribes who themselves managed to occupy unceded land from prior
 indigenous tribes, who in turn managed to occupy ancestral unceded
 territory from prior previous tribes, and so on and so forth, all the
 way back to the Clovis people who's distant ancestors originally came
-from Africa. [^c1] [^c2]
+from Africa, for crying out loud. [^c1] [^c2]
 
-So the final thing to say about land acknowledgments really is just
-this. Are we going to give the land back?
+So the final thing to ask about land acknowledgments is 
+this: Are we going to give the land back?
 
 No.
 
