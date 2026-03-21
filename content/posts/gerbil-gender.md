@@ -10,7 +10,7 @@ gender.
 
 <center>
 
-![picture of gerbil](https://commons.wikimedia.org/wiki/File:Gerbil_Awesomness.JPG)
+![picture of gerbil](https://upload.wikimedia.org/wikipedia/commons/7/72/Gerbil_Awesomness.JPG)
 
 </center>
 
