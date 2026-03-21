@@ -6,11 +6,11 @@ draft: false
 
 <center>
 
-![Flag of Mordor](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Mordor_SVG.svg/320px-Flag_of_Mordor_SVG.svg.png)
+![Flag of Mordor](https://upload.wikimedia.org/wikipedia/commons/1/16/Flag_of_Mordor_SVG.svg)
 
 </center>
 
-A team of economic experts[^1] recently concluded that the computer
+A team of economic experts recently concluded[^1] that the computer
 algorithms used by the Internal Revenue Service (IRS) are _structurally
 biased_ against Blacks, even though no racial information is
 contained in a tax return.
