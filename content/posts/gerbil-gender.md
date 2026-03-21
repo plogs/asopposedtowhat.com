@@ -26,7 +26,7 @@ organisms produce larger gametes (ova, or egg cells)."[^1]
 
 <center>
 
-![sperm and egg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Egg_and_Sperm.png/320px-Egg_and_Sperm.png)
+![sperm and egg](https://upload.wikimedia.org/wikipedia/commons/f/f7/Egg_and_Sperm.png)
 
 </center>
 
