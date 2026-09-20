@@ -26,10 +26,12 @@ And on and on it went.
 Difference after difference was fixed, advantage after advantage
 removed.
 
-Until one day, at last, everyone was equal, and all the diversity in
-the world was gone.
+Until one day, at last, everyone was equal.
 
-The people who said that life is unfair because the world is full of
-differences died.
+And all the diversity in the world was gone.
 
-But no one noticed.
+Those who said life was unfair because of all the differences died.
+
+No one noticed.
+
+It made no difference.
