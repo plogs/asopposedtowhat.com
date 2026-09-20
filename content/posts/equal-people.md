@@ -22,17 +22,14 @@ They made those with two eyes donate one to those who were blind.
 But that was not enough.
 
 And on and on it went.
-
 Difference after difference was fixed, advantage after advantage
 removed.
 
-Until one day, at last, everyone was equal.
-
-And all the diversity in the world was gone.
+Until one day, at last, everyone was equal--
+and all the diversity in the world was gone.
 
 Those who said life was unfair because of all the differences died.
-
-It made no difference.
+But it made no difference.
 
 No one noticed.
 
