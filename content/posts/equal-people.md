@@ -32,6 +32,8 @@ And all the diversity in the world was gone.
 
 Those who said life was unfair because of all the differences died.
 
+It made no difference.
+
 No one noticed.
 
-It made no difference.
+Life was still unfair.
